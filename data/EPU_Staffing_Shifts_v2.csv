@@ -1,0 +1,2921 @@
+Date,Shift_Type,Staff_Type,Staff_On_Duty
+2025-01-01,Morning,EPU Core,1
+2025-01-01,Morning,Pool,1
+2025-01-01,Day,EPU Core,3
+2025-01-01,Day,Pool,0
+2025-01-01,Evening,EPU Core,1
+2025-01-01,Evening,Pool,2
+2025-01-01,Night,EPU Core,1
+2025-01-01,Night,Pool,0
+2025-01-02,Morning,EPU Core,1
+2025-01-02,Morning,Pool,1
+2025-01-02,Day,EPU Core,3
+2025-01-02,Day,Pool,0
+2025-01-02,Evening,EPU Core,2
+2025-01-02,Evening,Pool,0
+2025-01-02,Night,EPU Core,3
+2025-01-02,Night,Pool,0
+2025-01-03,Morning,EPU Core,1
+2025-01-03,Morning,Pool,2
+2025-01-03,Day,EPU Core,1
+2025-01-03,Day,Pool,0
+2025-01-03,Evening,EPU Core,1
+2025-01-03,Evening,Pool,0
+2025-01-03,Night,EPU Core,1
+2025-01-03,Night,Pool,0
+2025-01-04,Morning,EPU Core,1
+2025-01-04,Morning,Pool,2
+2025-01-04,Day,EPU Core,2
+2025-01-04,Day,Pool,1
+2025-01-04,Evening,EPU Core,3
+2025-01-04,Evening,Pool,0
+2025-01-04,Night,EPU Core,3
+2025-01-04,Night,Pool,0
+2025-01-05,Morning,EPU Core,1
+2025-01-05,Morning,Pool,0
+2025-01-05,Day,EPU Core,1
+2025-01-05,Day,Pool,0
+2025-01-05,Evening,EPU Core,2
+2025-01-05,Evening,Pool,1
+2025-01-05,Night,EPU Core,1
+2025-01-05,Night,Pool,0
+2025-01-06,Morning,EPU Core,1
+2025-01-06,Morning,Pool,0
+2025-01-06,Day,EPU Core,1
+2025-01-06,Day,Pool,0
+2025-01-06,Evening,EPU Core,1
+2025-01-06,Evening,Pool,1
+2025-01-06,Night,EPU Core,1
+2025-01-06,Night,Pool,1
+2025-01-07,Morning,EPU Core,3
+2025-01-07,Morning,Pool,0
+2025-01-07,Day,EPU Core,1
+2025-01-07,Day,Pool,0
+2025-01-07,Evening,EPU Core,1
+2025-01-07,Evening,Pool,0
+2025-01-07,Night,EPU Core,1
+2025-01-07,Night,Pool,0
+2025-01-08,Morning,EPU Core,2
+2025-01-08,Morning,Pool,0
+2025-01-08,Day,EPU Core,1
+2025-01-08,Day,Pool,0
+2025-01-08,Evening,EPU Core,3
+2025-01-08,Evening,Pool,0
+2025-01-08,Night,EPU Core,1
+2025-01-08,Night,Pool,0
+2025-01-09,Morning,EPU Core,2
+2025-01-09,Morning,Pool,0
+2025-01-09,Day,EPU Core,1
+2025-01-09,Day,Pool,0
+2025-01-09,Evening,EPU Core,1
+2025-01-09,Evening,Pool,1
+2025-01-09,Night,EPU Core,1
+2025-01-09,Night,Pool,0
+2025-01-10,Morning,EPU Core,1
+2025-01-10,Morning,Pool,0
+2025-01-10,Day,EPU Core,1
+2025-01-10,Day,Pool,1
+2025-01-10,Evening,EPU Core,1
+2025-01-10,Evening,Pool,0
+2025-01-10,Night,EPU Core,1
+2025-01-10,Night,Pool,0
+2025-01-11,Morning,EPU Core,2
+2025-01-11,Morning,Pool,0
+2025-01-11,Day,EPU Core,1
+2025-01-11,Day,Pool,0
+2025-01-11,Evening,EPU Core,2
+2025-01-11,Evening,Pool,0
+2025-01-11,Night,EPU Core,1
+2025-01-11,Night,Pool,1
+2025-01-12,Morning,EPU Core,2
+2025-01-12,Morning,Pool,0
+2025-01-12,Day,EPU Core,3
+2025-01-12,Day,Pool,0
+2025-01-12,Evening,EPU Core,2
+2025-01-12,Evening,Pool,1
+2025-01-12,Night,EPU Core,2
+2025-01-12,Night,Pool,1
+2025-01-13,Morning,EPU Core,1
+2025-01-13,Morning,Pool,0
+2025-01-13,Day,EPU Core,1
+2025-01-13,Day,Pool,0
+2025-01-13,Evening,EPU Core,1
+2025-01-13,Evening,Pool,2
+2025-01-13,Night,EPU Core,3
+2025-01-13,Night,Pool,0
+2025-01-14,Morning,EPU Core,2
+2025-01-14,Morning,Pool,1
+2025-01-14,Day,EPU Core,3
+2025-01-14,Day,Pool,0
+2025-01-14,Evening,EPU Core,2
+2025-01-14,Evening,Pool,1
+2025-01-14,Night,EPU Core,1
+2025-01-14,Night,Pool,2
+2025-01-15,Morning,EPU Core,2
+2025-01-15,Morning,Pool,1
+2025-01-15,Day,EPU Core,2
+2025-01-15,Day,Pool,0
+2025-01-15,Evening,EPU Core,1
+2025-01-15,Evening,Pool,2
+2025-01-15,Night,EPU Core,2
+2025-01-15,Night,Pool,0
+2025-01-16,Morning,EPU Core,3
+2025-01-16,Morning,Pool,0
+2025-01-16,Day,EPU Core,1
+2025-01-16,Day,Pool,0
+2025-01-16,Evening,EPU Core,1
+2025-01-16,Evening,Pool,1
+2025-01-16,Night,EPU Core,3
+2025-01-16,Night,Pool,0
+2025-01-17,Morning,EPU Core,2
+2025-01-17,Morning,Pool,1
+2025-01-17,Day,EPU Core,1
+2025-01-17,Day,Pool,0
+2025-01-17,Evening,EPU Core,1
+2025-01-17,Evening,Pool,0
+2025-01-17,Night,EPU Core,1
+2025-01-17,Night,Pool,1
+2025-01-18,Morning,EPU Core,2
+2025-01-18,Morning,Pool,1
+2025-01-18,Day,EPU Core,1
+2025-01-18,Day,Pool,2
+2025-01-18,Evening,EPU Core,1
+2025-01-18,Evening,Pool,0
+2025-01-18,Night,EPU Core,1
+2025-01-18,Night,Pool,0
+2025-01-19,Morning,EPU Core,1
+2025-01-19,Morning,Pool,0
+2025-01-19,Day,EPU Core,2
+2025-01-19,Day,Pool,0
+2025-01-19,Evening,EPU Core,3
+2025-01-19,Evening,Pool,0
+2025-01-19,Night,EPU Core,1
+2025-01-19,Night,Pool,0
+2025-01-20,Morning,EPU Core,1
+2025-01-20,Morning,Pool,0
+2025-01-20,Day,EPU Core,2
+2025-01-20,Day,Pool,0
+2025-01-20,Evening,EPU Core,1
+2025-01-20,Evening,Pool,0
+2025-01-20,Night,EPU Core,2
+2025-01-20,Night,Pool,1
+2025-01-21,Morning,EPU Core,2
+2025-01-21,Morning,Pool,1
+2025-01-21,Day,EPU Core,2
+2025-01-21,Day,Pool,1
+2025-01-21,Evening,EPU Core,1
+2025-01-21,Evening,Pool,1
+2025-01-21,Night,EPU Core,1
+2025-01-21,Night,Pool,0
+2025-01-22,Morning,EPU Core,2
+2025-01-22,Morning,Pool,0
+2025-01-22,Day,EPU Core,2
+2025-01-22,Day,Pool,1
+2025-01-22,Evening,EPU Core,1
+2025-01-22,Evening,Pool,1
+2025-01-22,Night,EPU Core,2
+2025-01-22,Night,Pool,1
+2025-01-23,Morning,EPU Core,1
+2025-01-23,Morning,Pool,0
+2025-01-23,Day,EPU Core,1
+2025-01-23,Day,Pool,0
+2025-01-23,Evening,EPU Core,2
+2025-01-23,Evening,Pool,1
+2025-01-23,Night,EPU Core,1
+2025-01-23,Night,Pool,2
+2025-01-24,Morning,EPU Core,1
+2025-01-24,Morning,Pool,0
+2025-01-24,Day,EPU Core,2
+2025-01-24,Day,Pool,0
+2025-01-24,Evening,EPU Core,1
+2025-01-24,Evening,Pool,2
+2025-01-24,Night,EPU Core,1
+2025-01-24,Night,Pool,0
+2025-01-25,Morning,EPU Core,1
+2025-01-25,Morning,Pool,1
+2025-01-25,Day,EPU Core,1
+2025-01-25,Day,Pool,1
+2025-01-25,Evening,EPU Core,2
+2025-01-25,Evening,Pool,0
+2025-01-25,Night,EPU Core,1
+2025-01-25,Night,Pool,0
+2025-01-26,Morning,EPU Core,1
+2025-01-26,Morning,Pool,0
+2025-01-26,Day,EPU Core,2
+2025-01-26,Day,Pool,1
+2025-01-26,Evening,EPU Core,2
+2025-01-26,Evening,Pool,1
+2025-01-26,Night,EPU Core,1
+2025-01-26,Night,Pool,0
+2025-01-27,Morning,EPU Core,2
+2025-01-27,Morning,Pool,0
+2025-01-27,Day,EPU Core,1
+2025-01-27,Day,Pool,0
+2025-01-27,Evening,EPU Core,2
+2025-01-27,Evening,Pool,0
+2025-01-27,Night,EPU Core,1
+2025-01-27,Night,Pool,0
+2025-01-28,Morning,EPU Core,1
+2025-01-28,Morning,Pool,0
+2025-01-28,Day,EPU Core,2
+2025-01-28,Day,Pool,0
+2025-01-28,Evening,EPU Core,3
+2025-01-28,Evening,Pool,0
+2025-01-28,Night,EPU Core,1
+2025-01-28,Night,Pool,0
+2025-01-29,Morning,EPU Core,1
+2025-01-29,Morning,Pool,0
+2025-01-29,Day,EPU Core,1
+2025-01-29,Day,Pool,1
+2025-01-29,Evening,EPU Core,1
+2025-01-29,Evening,Pool,0
+2025-01-29,Night,EPU Core,1
+2025-01-29,Night,Pool,1
+2025-01-30,Morning,EPU Core,1
+2025-01-30,Morning,Pool,1
+2025-01-30,Day,EPU Core,2
+2025-01-30,Day,Pool,0
+2025-01-30,Evening,EPU Core,1
+2025-01-30,Evening,Pool,0
+2025-01-30,Night,EPU Core,1
+2025-01-30,Night,Pool,2
+2025-01-31,Morning,EPU Core,3
+2025-01-31,Morning,Pool,0
+2025-01-31,Day,EPU Core,2
+2025-01-31,Day,Pool,0
+2025-01-31,Evening,EPU Core,1
+2025-01-31,Evening,Pool,1
+2025-01-31,Night,EPU Core,1
+2025-01-31,Night,Pool,0
+2025-02-01,Morning,EPU Core,1
+2025-02-01,Morning,Pool,2
+2025-02-01,Day,EPU Core,1
+2025-02-01,Day,Pool,1
+2025-02-01,Evening,EPU Core,1
+2025-02-01,Evening,Pool,0
+2025-02-01,Night,EPU Core,2
+2025-02-01,Night,Pool,0
+2025-02-02,Morning,EPU Core,1
+2025-02-02,Morning,Pool,0
+2025-02-02,Day,EPU Core,3
+2025-02-02,Day,Pool,0
+2025-02-02,Evening,EPU Core,3
+2025-02-02,Evening,Pool,0
+2025-02-02,Night,EPU Core,2
+2025-02-02,Night,Pool,0
+2025-02-03,Morning,EPU Core,1
+2025-02-03,Morning,Pool,1
+2025-02-03,Day,EPU Core,2
+2025-02-03,Day,Pool,1
+2025-02-03,Evening,EPU Core,1
+2025-02-03,Evening,Pool,2
+2025-02-03,Night,EPU Core,1
+2025-02-03,Night,Pool,1
+2025-02-04,Morning,EPU Core,1
+2025-02-04,Morning,Pool,0
+2025-02-04,Day,EPU Core,1
+2025-02-04,Day,Pool,2
+2025-02-04,Evening,EPU Core,2
+2025-02-04,Evening,Pool,0
+2025-02-04,Night,EPU Core,2
+2025-02-04,Night,Pool,0
+2025-02-05,Morning,EPU Core,3
+2025-02-05,Morning,Pool,0
+2025-02-05,Day,EPU Core,1
+2025-02-05,Day,Pool,0
+2025-02-05,Evening,EPU Core,1
+2025-02-05,Evening,Pool,0
+2025-02-05,Night,EPU Core,2
+2025-02-05,Night,Pool,1
+2025-02-06,Morning,EPU Core,1
+2025-02-06,Morning,Pool,2
+2025-02-06,Day,EPU Core,1
+2025-02-06,Day,Pool,0
+2025-02-06,Evening,EPU Core,1
+2025-02-06,Evening,Pool,2
+2025-02-06,Night,EPU Core,1
+2025-02-06,Night,Pool,1
+2025-02-07,Morning,EPU Core,1
+2025-02-07,Morning,Pool,0
+2025-02-07,Day,EPU Core,2
+2025-02-07,Day,Pool,0
+2025-02-07,Evening,EPU Core,1
+2025-02-07,Evening,Pool,0
+2025-02-07,Night,EPU Core,2
+2025-02-07,Night,Pool,1
+2025-02-08,Morning,EPU Core,1
+2025-02-08,Morning,Pool,1
+2025-02-08,Day,EPU Core,1
+2025-02-08,Day,Pool,0
+2025-02-08,Evening,EPU Core,1
+2025-02-08,Evening,Pool,0
+2025-02-08,Night,EPU Core,1
+2025-02-08,Night,Pool,0
+2025-02-09,Morning,EPU Core,1
+2025-02-09,Morning,Pool,2
+2025-02-09,Day,EPU Core,1
+2025-02-09,Day,Pool,1
+2025-02-09,Evening,EPU Core,1
+2025-02-09,Evening,Pool,0
+2025-02-09,Night,EPU Core,2
+2025-02-09,Night,Pool,0
+2025-02-10,Morning,EPU Core,1
+2025-02-10,Morning,Pool,1
+2025-02-10,Day,EPU Core,1
+2025-02-10,Day,Pool,0
+2025-02-10,Evening,EPU Core,3
+2025-02-10,Evening,Pool,0
+2025-02-10,Night,EPU Core,1
+2025-02-10,Night,Pool,0
+2025-02-11,Morning,EPU Core,1
+2025-02-11,Morning,Pool,1
+2025-02-11,Day,EPU Core,1
+2025-02-11,Day,Pool,0
+2025-02-11,Evening,EPU Core,1
+2025-02-11,Evening,Pool,0
+2025-02-11,Night,EPU Core,3
+2025-02-11,Night,Pool,0
+2025-02-12,Morning,EPU Core,2
+2025-02-12,Morning,Pool,0
+2025-02-12,Day,EPU Core,1
+2025-02-12,Day,Pool,2
+2025-02-12,Evening,EPU Core,1
+2025-02-12,Evening,Pool,0
+2025-02-12,Night,EPU Core,1
+2025-02-12,Night,Pool,0
+2025-02-13,Morning,EPU Core,1
+2025-02-13,Morning,Pool,2
+2025-02-13,Day,EPU Core,2
+2025-02-13,Day,Pool,0
+2025-02-13,Evening,EPU Core,3
+2025-02-13,Evening,Pool,0
+2025-02-13,Night,EPU Core,1
+2025-02-13,Night,Pool,2
+2025-02-14,Morning,EPU Core,1
+2025-02-14,Morning,Pool,0
+2025-02-14,Day,EPU Core,1
+2025-02-14,Day,Pool,1
+2025-02-14,Evening,EPU Core,2
+2025-02-14,Evening,Pool,0
+2025-02-14,Night,EPU Core,1
+2025-02-14,Night,Pool,1
+2025-02-15,Morning,EPU Core,1
+2025-02-15,Morning,Pool,0
+2025-02-15,Day,EPU Core,1
+2025-02-15,Day,Pool,0
+2025-02-15,Evening,EPU Core,1
+2025-02-15,Evening,Pool,0
+2025-02-15,Night,EPU Core,1
+2025-02-15,Night,Pool,0
+2025-02-16,Morning,EPU Core,1
+2025-02-16,Morning,Pool,0
+2025-02-16,Day,EPU Core,1
+2025-02-16,Day,Pool,1
+2025-02-16,Evening,EPU Core,3
+2025-02-16,Evening,Pool,0
+2025-02-16,Night,EPU Core,2
+2025-02-16,Night,Pool,0
+2025-02-17,Morning,EPU Core,2
+2025-02-17,Morning,Pool,1
+2025-02-17,Day,EPU Core,2
+2025-02-17,Day,Pool,0
+2025-02-17,Evening,EPU Core,2
+2025-02-17,Evening,Pool,0
+2025-02-17,Night,EPU Core,2
+2025-02-17,Night,Pool,1
+2025-02-18,Morning,EPU Core,1
+2025-02-18,Morning,Pool,0
+2025-02-18,Day,EPU Core,3
+2025-02-18,Day,Pool,0
+2025-02-18,Evening,EPU Core,1
+2025-02-18,Evening,Pool,1
+2025-02-18,Night,EPU Core,3
+2025-02-18,Night,Pool,0
+2025-02-19,Morning,EPU Core,2
+2025-02-19,Morning,Pool,1
+2025-02-19,Day,EPU Core,3
+2025-02-19,Day,Pool,0
+2025-02-19,Evening,EPU Core,1
+2025-02-19,Evening,Pool,0
+2025-02-19,Night,EPU Core,1
+2025-02-19,Night,Pool,1
+2025-02-20,Morning,EPU Core,2
+2025-02-20,Morning,Pool,1
+2025-02-20,Day,EPU Core,1
+2025-02-20,Day,Pool,2
+2025-02-20,Evening,EPU Core,1
+2025-02-20,Evening,Pool,0
+2025-02-20,Night,EPU Core,1
+2025-02-20,Night,Pool,0
+2025-02-21,Morning,EPU Core,3
+2025-02-21,Morning,Pool,0
+2025-02-21,Day,EPU Core,2
+2025-02-21,Day,Pool,0
+2025-02-21,Evening,EPU Core,1
+2025-02-21,Evening,Pool,1
+2025-02-21,Night,EPU Core,1
+2025-02-21,Night,Pool,0
+2025-02-22,Morning,EPU Core,2
+2025-02-22,Morning,Pool,1
+2025-02-22,Day,EPU Core,1
+2025-02-22,Day,Pool,1
+2025-02-22,Evening,EPU Core,2
+2025-02-22,Evening,Pool,1
+2025-02-22,Night,EPU Core,2
+2025-02-22,Night,Pool,0
+2025-02-23,Morning,EPU Core,2
+2025-02-23,Morning,Pool,0
+2025-02-23,Day,EPU Core,1
+2025-02-23,Day,Pool,2
+2025-02-23,Evening,EPU Core,3
+2025-02-23,Evening,Pool,0
+2025-02-23,Night,EPU Core,2
+2025-02-23,Night,Pool,0
+2025-02-24,Morning,EPU Core,1
+2025-02-24,Morning,Pool,2
+2025-02-24,Day,EPU Core,1
+2025-02-24,Day,Pool,2
+2025-02-24,Evening,EPU Core,1
+2025-02-24,Evening,Pool,0
+2025-02-24,Night,EPU Core,1
+2025-02-24,Night,Pool,0
+2025-02-25,Morning,EPU Core,1
+2025-02-25,Morning,Pool,0
+2025-02-25,Day,EPU Core,1
+2025-02-25,Day,Pool,0
+2025-02-25,Evening,EPU Core,1
+2025-02-25,Evening,Pool,0
+2025-02-25,Night,EPU Core,2
+2025-02-25,Night,Pool,0
+2025-02-26,Morning,EPU Core,3
+2025-02-26,Morning,Pool,0
+2025-02-26,Day,EPU Core,1
+2025-02-26,Day,Pool,1
+2025-02-26,Evening,EPU Core,3
+2025-02-26,Evening,Pool,0
+2025-02-26,Night,EPU Core,2
+2025-02-26,Night,Pool,0
+2025-02-27,Morning,EPU Core,1
+2025-02-27,Morning,Pool,0
+2025-02-27,Day,EPU Core,1
+2025-02-27,Day,Pool,1
+2025-02-27,Evening,EPU Core,1
+2025-02-27,Evening,Pool,1
+2025-02-27,Night,EPU Core,1
+2025-02-27,Night,Pool,0
+2025-02-28,Morning,EPU Core,1
+2025-02-28,Morning,Pool,1
+2025-02-28,Day,EPU Core,2
+2025-02-28,Day,Pool,0
+2025-02-28,Evening,EPU Core,1
+2025-02-28,Evening,Pool,0
+2025-02-28,Night,EPU Core,2
+2025-02-28,Night,Pool,1
+2025-03-01,Morning,EPU Core,1
+2025-03-01,Morning,Pool,1
+2025-03-01,Day,EPU Core,2
+2025-03-01,Day,Pool,1
+2025-03-01,Evening,EPU Core,2
+2025-03-01,Evening,Pool,0
+2025-03-01,Night,EPU Core,1
+2025-03-01,Night,Pool,0
+2025-03-02,Morning,EPU Core,1
+2025-03-02,Morning,Pool,0
+2025-03-02,Day,EPU Core,1
+2025-03-02,Day,Pool,0
+2025-03-02,Evening,EPU Core,3
+2025-03-02,Evening,Pool,0
+2025-03-02,Night,EPU Core,3
+2025-03-02,Night,Pool,0
+2025-03-03,Morning,EPU Core,1
+2025-03-03,Morning,Pool,0
+2025-03-03,Day,EPU Core,1
+2025-03-03,Day,Pool,1
+2025-03-03,Evening,EPU Core,1
+2025-03-03,Evening,Pool,1
+2025-03-03,Night,EPU Core,1
+2025-03-03,Night,Pool,1
+2025-03-04,Morning,EPU Core,2
+2025-03-04,Morning,Pool,0
+2025-03-04,Day,EPU Core,1
+2025-03-04,Day,Pool,0
+2025-03-04,Evening,EPU Core,3
+2025-03-04,Evening,Pool,0
+2025-03-04,Night,EPU Core,1
+2025-03-04,Night,Pool,2
+2025-03-05,Morning,EPU Core,3
+2025-03-05,Morning,Pool,0
+2025-03-05,Day,EPU Core,1
+2025-03-05,Day,Pool,1
+2025-03-05,Evening,EPU Core,1
+2025-03-05,Evening,Pool,2
+2025-03-05,Night,EPU Core,1
+2025-03-05,Night,Pool,0
+2025-03-06,Morning,EPU Core,2
+2025-03-06,Morning,Pool,0
+2025-03-06,Day,EPU Core,1
+2025-03-06,Day,Pool,0
+2025-03-06,Evening,EPU Core,2
+2025-03-06,Evening,Pool,0
+2025-03-06,Night,EPU Core,1
+2025-03-06,Night,Pool,2
+2025-03-07,Morning,EPU Core,1
+2025-03-07,Morning,Pool,0
+2025-03-07,Day,EPU Core,1
+2025-03-07,Day,Pool,1
+2025-03-07,Evening,EPU Core,1
+2025-03-07,Evening,Pool,0
+2025-03-07,Night,EPU Core,1
+2025-03-07,Night,Pool,2
+2025-03-08,Morning,EPU Core,1
+2025-03-08,Morning,Pool,0
+2025-03-08,Day,EPU Core,2
+2025-03-08,Day,Pool,0
+2025-03-08,Evening,EPU Core,2
+2025-03-08,Evening,Pool,0
+2025-03-08,Night,EPU Core,1
+2025-03-08,Night,Pool,0
+2025-03-09,Morning,EPU Core,3
+2025-03-09,Morning,Pool,0
+2025-03-09,Day,EPU Core,2
+2025-03-09,Day,Pool,1
+2025-03-09,Evening,EPU Core,3
+2025-03-09,Evening,Pool,0
+2025-03-09,Night,EPU Core,2
+2025-03-09,Night,Pool,0
+2025-03-10,Morning,EPU Core,1
+2025-03-10,Morning,Pool,1
+2025-03-10,Day,EPU Core,1
+2025-03-10,Day,Pool,1
+2025-03-10,Evening,EPU Core,1
+2025-03-10,Evening,Pool,0
+2025-03-10,Night,EPU Core,1
+2025-03-10,Night,Pool,0
+2025-03-11,Morning,EPU Core,2
+2025-03-11,Morning,Pool,1
+2025-03-11,Day,EPU Core,1
+2025-03-11,Day,Pool,2
+2025-03-11,Evening,EPU Core,2
+2025-03-11,Evening,Pool,0
+2025-03-11,Night,EPU Core,2
+2025-03-11,Night,Pool,1
+2025-03-12,Morning,EPU Core,1
+2025-03-12,Morning,Pool,2
+2025-03-12,Day,EPU Core,1
+2025-03-12,Day,Pool,0
+2025-03-12,Evening,EPU Core,3
+2025-03-12,Evening,Pool,0
+2025-03-12,Night,EPU Core,1
+2025-03-12,Night,Pool,0
+2025-03-13,Morning,EPU Core,2
+2025-03-13,Morning,Pool,0
+2025-03-13,Day,EPU Core,2
+2025-03-13,Day,Pool,1
+2025-03-13,Evening,EPU Core,2
+2025-03-13,Evening,Pool,1
+2025-03-13,Night,EPU Core,1
+2025-03-13,Night,Pool,0
+2025-03-14,Morning,EPU Core,2
+2025-03-14,Morning,Pool,1
+2025-03-14,Day,EPU Core,1
+2025-03-14,Day,Pool,0
+2025-03-14,Evening,EPU Core,1
+2025-03-14,Evening,Pool,0
+2025-03-14,Night,EPU Core,1
+2025-03-14,Night,Pool,1
+2025-03-15,Morning,EPU Core,1
+2025-03-15,Morning,Pool,1
+2025-03-15,Day,EPU Core,2
+2025-03-15,Day,Pool,0
+2025-03-15,Evening,EPU Core,2
+2025-03-15,Evening,Pool,0
+2025-03-15,Night,EPU Core,1
+2025-03-15,Night,Pool,0
+2025-03-16,Morning,EPU Core,1
+2025-03-16,Morning,Pool,1
+2025-03-16,Day,EPU Core,2
+2025-03-16,Day,Pool,0
+2025-03-16,Evening,EPU Core,3
+2025-03-16,Evening,Pool,0
+2025-03-16,Night,EPU Core,2
+2025-03-16,Night,Pool,0
+2025-03-17,Morning,EPU Core,2
+2025-03-17,Morning,Pool,0
+2025-03-17,Day,EPU Core,3
+2025-03-17,Day,Pool,0
+2025-03-17,Evening,EPU Core,1
+2025-03-17,Evening,Pool,0
+2025-03-17,Night,EPU Core,1
+2025-03-17,Night,Pool,1
+2025-03-18,Morning,EPU Core,1
+2025-03-18,Morning,Pool,0
+2025-03-18,Day,EPU Core,1
+2025-03-18,Day,Pool,1
+2025-03-18,Evening,EPU Core,1
+2025-03-18,Evening,Pool,0
+2025-03-18,Night,EPU Core,1
+2025-03-18,Night,Pool,2
+2025-03-19,Morning,EPU Core,1
+2025-03-19,Morning,Pool,0
+2025-03-19,Day,EPU Core,3
+2025-03-19,Day,Pool,0
+2025-03-19,Evening,EPU Core,3
+2025-03-19,Evening,Pool,0
+2025-03-19,Night,EPU Core,1
+2025-03-19,Night,Pool,0
+2025-03-20,Morning,EPU Core,1
+2025-03-20,Morning,Pool,1
+2025-03-20,Day,EPU Core,2
+2025-03-20,Day,Pool,0
+2025-03-20,Evening,EPU Core,2
+2025-03-20,Evening,Pool,1
+2025-03-20,Night,EPU Core,1
+2025-03-20,Night,Pool,0
+2025-03-21,Morning,EPU Core,2
+2025-03-21,Morning,Pool,1
+2025-03-21,Day,EPU Core,1
+2025-03-21,Day,Pool,0
+2025-03-21,Evening,EPU Core,1
+2025-03-21,Evening,Pool,0
+2025-03-21,Night,EPU Core,3
+2025-03-21,Night,Pool,0
+2025-03-22,Morning,EPU Core,3
+2025-03-22,Morning,Pool,0
+2025-03-22,Day,EPU Core,1
+2025-03-22,Day,Pool,0
+2025-03-22,Evening,EPU Core,1
+2025-03-22,Evening,Pool,0
+2025-03-22,Night,EPU Core,1
+2025-03-22,Night,Pool,2
+2025-03-23,Morning,EPU Core,1
+2025-03-23,Morning,Pool,0
+2025-03-23,Day,EPU Core,3
+2025-03-23,Day,Pool,0
+2025-03-23,Evening,EPU Core,1
+2025-03-23,Evening,Pool,1
+2025-03-23,Night,EPU Core,1
+2025-03-23,Night,Pool,0
+2025-03-24,Morning,EPU Core,2
+2025-03-24,Morning,Pool,0
+2025-03-24,Day,EPU Core,1
+2025-03-24,Day,Pool,0
+2025-03-24,Evening,EPU Core,3
+2025-03-24,Evening,Pool,0
+2025-03-24,Night,EPU Core,2
+2025-03-24,Night,Pool,0
+2025-03-25,Morning,EPU Core,1
+2025-03-25,Morning,Pool,0
+2025-03-25,Day,EPU Core,3
+2025-03-25,Day,Pool,0
+2025-03-25,Evening,EPU Core,3
+2025-03-25,Evening,Pool,0
+2025-03-25,Night,EPU Core,1
+2025-03-25,Night,Pool,1
+2025-03-26,Morning,EPU Core,1
+2025-03-26,Morning,Pool,0
+2025-03-26,Day,EPU Core,1
+2025-03-26,Day,Pool,0
+2025-03-26,Evening,EPU Core,1
+2025-03-26,Evening,Pool,0
+2025-03-26,Night,EPU Core,2
+2025-03-26,Night,Pool,1
+2025-03-27,Morning,EPU Core,2
+2025-03-27,Morning,Pool,0
+2025-03-27,Day,EPU Core,1
+2025-03-27,Day,Pool,1
+2025-03-27,Evening,EPU Core,2
+2025-03-27,Evening,Pool,1
+2025-03-27,Night,EPU Core,1
+2025-03-27,Night,Pool,0
+2025-03-28,Morning,EPU Core,2
+2025-03-28,Morning,Pool,0
+2025-03-28,Day,EPU Core,1
+2025-03-28,Day,Pool,0
+2025-03-28,Evening,EPU Core,2
+2025-03-28,Evening,Pool,0
+2025-03-28,Night,EPU Core,1
+2025-03-28,Night,Pool,1
+2025-03-29,Morning,EPU Core,1
+2025-03-29,Morning,Pool,2
+2025-03-29,Day,EPU Core,1
+2025-03-29,Day,Pool,2
+2025-03-29,Evening,EPU Core,3
+2025-03-29,Evening,Pool,0
+2025-03-29,Night,EPU Core,1
+2025-03-29,Night,Pool,0
+2025-03-30,Morning,EPU Core,2
+2025-03-30,Morning,Pool,1
+2025-03-30,Day,EPU Core,2
+2025-03-30,Day,Pool,0
+2025-03-30,Evening,EPU Core,1
+2025-03-30,Evening,Pool,1
+2025-03-30,Night,EPU Core,1
+2025-03-30,Night,Pool,1
+2025-03-31,Morning,EPU Core,1
+2025-03-31,Morning,Pool,1
+2025-03-31,Day,EPU Core,1
+2025-03-31,Day,Pool,2
+2025-03-31,Evening,EPU Core,2
+2025-03-31,Evening,Pool,1
+2025-03-31,Night,EPU Core,3
+2025-03-31,Night,Pool,0
+2025-04-01,Morning,EPU Core,2
+2025-04-01,Morning,Pool,0
+2025-04-01,Day,EPU Core,1
+2025-04-01,Day,Pool,2
+2025-04-01,Evening,EPU Core,1
+2025-04-01,Evening,Pool,0
+2025-04-01,Night,EPU Core,1
+2025-04-01,Night,Pool,0
+2025-04-02,Morning,EPU Core,1
+2025-04-02,Morning,Pool,1
+2025-04-02,Day,EPU Core,1
+2025-04-02,Day,Pool,0
+2025-04-02,Evening,EPU Core,1
+2025-04-02,Evening,Pool,0
+2025-04-02,Night,EPU Core,3
+2025-04-02,Night,Pool,0
+2025-04-03,Morning,EPU Core,2
+2025-04-03,Morning,Pool,0
+2025-04-03,Day,EPU Core,1
+2025-04-03,Day,Pool,1
+2025-04-03,Evening,EPU Core,2
+2025-04-03,Evening,Pool,1
+2025-04-03,Night,EPU Core,2
+2025-04-03,Night,Pool,1
+2025-04-04,Morning,EPU Core,2
+2025-04-04,Morning,Pool,1
+2025-04-04,Day,EPU Core,1
+2025-04-04,Day,Pool,0
+2025-04-04,Evening,EPU Core,1
+2025-04-04,Evening,Pool,0
+2025-04-04,Night,EPU Core,1
+2025-04-04,Night,Pool,0
+2025-04-05,Morning,EPU Core,3
+2025-04-05,Morning,Pool,0
+2025-04-05,Day,EPU Core,3
+2025-04-05,Day,Pool,0
+2025-04-05,Evening,EPU Core,2
+2025-04-05,Evening,Pool,1
+2025-04-05,Night,EPU Core,2
+2025-04-05,Night,Pool,0
+2025-04-06,Morning,EPU Core,1
+2025-04-06,Morning,Pool,0
+2025-04-06,Day,EPU Core,1
+2025-04-06,Day,Pool,0
+2025-04-06,Evening,EPU Core,3
+2025-04-06,Evening,Pool,0
+2025-04-06,Night,EPU Core,3
+2025-04-06,Night,Pool,0
+2025-04-07,Morning,EPU Core,1
+2025-04-07,Morning,Pool,0
+2025-04-07,Day,EPU Core,2
+2025-04-07,Day,Pool,1
+2025-04-07,Evening,EPU Core,1
+2025-04-07,Evening,Pool,0
+2025-04-07,Night,EPU Core,1
+2025-04-07,Night,Pool,0
+2025-04-08,Morning,EPU Core,1
+2025-04-08,Morning,Pool,1
+2025-04-08,Day,EPU Core,2
+2025-04-08,Day,Pool,0
+2025-04-08,Evening,EPU Core,1
+2025-04-08,Evening,Pool,0
+2025-04-08,Night,EPU Core,1
+2025-04-08,Night,Pool,0
+2025-04-09,Morning,EPU Core,1
+2025-04-09,Morning,Pool,2
+2025-04-09,Day,EPU Core,1
+2025-04-09,Day,Pool,0
+2025-04-09,Evening,EPU Core,1
+2025-04-09,Evening,Pool,0
+2025-04-09,Night,EPU Core,3
+2025-04-09,Night,Pool,0
+2025-04-10,Morning,EPU Core,1
+2025-04-10,Morning,Pool,0
+2025-04-10,Day,EPU Core,1
+2025-04-10,Day,Pool,0
+2025-04-10,Evening,EPU Core,1
+2025-04-10,Evening,Pool,0
+2025-04-10,Night,EPU Core,2
+2025-04-10,Night,Pool,0
+2025-04-11,Morning,EPU Core,1
+2025-04-11,Morning,Pool,2
+2025-04-11,Day,EPU Core,1
+2025-04-11,Day,Pool,1
+2025-04-11,Evening,EPU Core,1
+2025-04-11,Evening,Pool,2
+2025-04-11,Night,EPU Core,2
+2025-04-11,Night,Pool,0
+2025-04-12,Morning,EPU Core,1
+2025-04-12,Morning,Pool,0
+2025-04-12,Day,EPU Core,1
+2025-04-12,Day,Pool,0
+2025-04-12,Evening,EPU Core,1
+2025-04-12,Evening,Pool,1
+2025-04-12,Night,EPU Core,1
+2025-04-12,Night,Pool,0
+2025-04-13,Morning,EPU Core,2
+2025-04-13,Morning,Pool,0
+2025-04-13,Day,EPU Core,1
+2025-04-13,Day,Pool,2
+2025-04-13,Evening,EPU Core,3
+2025-04-13,Evening,Pool,0
+2025-04-13,Night,EPU Core,1
+2025-04-13,Night,Pool,2
+2025-04-14,Morning,EPU Core,1
+2025-04-14,Morning,Pool,1
+2025-04-14,Day,EPU Core,1
+2025-04-14,Day,Pool,2
+2025-04-14,Evening,EPU Core,1
+2025-04-14,Evening,Pool,2
+2025-04-14,Night,EPU Core,2
+2025-04-14,Night,Pool,0
+2025-04-15,Morning,EPU Core,1
+2025-04-15,Morning,Pool,1
+2025-04-15,Day,EPU Core,2
+2025-04-15,Day,Pool,0
+2025-04-15,Evening,EPU Core,2
+2025-04-15,Evening,Pool,0
+2025-04-15,Night,EPU Core,2
+2025-04-15,Night,Pool,1
+2025-04-16,Morning,EPU Core,3
+2025-04-16,Morning,Pool,0
+2025-04-16,Day,EPU Core,2
+2025-04-16,Day,Pool,0
+2025-04-16,Evening,EPU Core,2
+2025-04-16,Evening,Pool,1
+2025-04-16,Night,EPU Core,1
+2025-04-16,Night,Pool,1
+2025-04-17,Morning,EPU Core,3
+2025-04-17,Morning,Pool,0
+2025-04-17,Day,EPU Core,1
+2025-04-17,Day,Pool,0
+2025-04-17,Evening,EPU Core,1
+2025-04-17,Evening,Pool,0
+2025-04-17,Night,EPU Core,1
+2025-04-17,Night,Pool,1
+2025-04-18,Morning,EPU Core,3
+2025-04-18,Morning,Pool,0
+2025-04-18,Day,EPU Core,3
+2025-04-18,Day,Pool,0
+2025-04-18,Evening,EPU Core,1
+2025-04-18,Evening,Pool,0
+2025-04-18,Night,EPU Core,1
+2025-04-18,Night,Pool,2
+2025-04-19,Morning,EPU Core,1
+2025-04-19,Morning,Pool,1
+2025-04-19,Day,EPU Core,1
+2025-04-19,Day,Pool,0
+2025-04-19,Evening,EPU Core,1
+2025-04-19,Evening,Pool,0
+2025-04-19,Night,EPU Core,1
+2025-04-19,Night,Pool,0
+2025-04-20,Morning,EPU Core,3
+2025-04-20,Morning,Pool,0
+2025-04-20,Day,EPU Core,1
+2025-04-20,Day,Pool,0
+2025-04-20,Evening,EPU Core,1
+2025-04-20,Evening,Pool,1
+2025-04-20,Night,EPU Core,2
+2025-04-20,Night,Pool,0
+2025-04-21,Morning,EPU Core,1
+2025-04-21,Morning,Pool,2
+2025-04-21,Day,EPU Core,1
+2025-04-21,Day,Pool,1
+2025-04-21,Evening,EPU Core,1
+2025-04-21,Evening,Pool,1
+2025-04-21,Night,EPU Core,3
+2025-04-21,Night,Pool,0
+2025-04-22,Morning,EPU Core,3
+2025-04-22,Morning,Pool,0
+2025-04-22,Day,EPU Core,2
+2025-04-22,Day,Pool,0
+2025-04-22,Evening,EPU Core,2
+2025-04-22,Evening,Pool,1
+2025-04-22,Night,EPU Core,1
+2025-04-22,Night,Pool,0
+2025-04-23,Morning,EPU Core,2
+2025-04-23,Morning,Pool,1
+2025-04-23,Day,EPU Core,1
+2025-04-23,Day,Pool,1
+2025-04-23,Evening,EPU Core,1
+2025-04-23,Evening,Pool,1
+2025-04-23,Night,EPU Core,3
+2025-04-23,Night,Pool,0
+2025-04-24,Morning,EPU Core,2
+2025-04-24,Morning,Pool,0
+2025-04-24,Day,EPU Core,1
+2025-04-24,Day,Pool,0
+2025-04-24,Evening,EPU Core,3
+2025-04-24,Evening,Pool,0
+2025-04-24,Night,EPU Core,2
+2025-04-24,Night,Pool,1
+2025-04-25,Morning,EPU Core,2
+2025-04-25,Morning,Pool,0
+2025-04-25,Day,EPU Core,1
+2025-04-25,Day,Pool,2
+2025-04-25,Evening,EPU Core,2
+2025-04-25,Evening,Pool,0
+2025-04-25,Night,EPU Core,1
+2025-04-25,Night,Pool,0
+2025-04-26,Morning,EPU Core,3
+2025-04-26,Morning,Pool,0
+2025-04-26,Day,EPU Core,1
+2025-04-26,Day,Pool,0
+2025-04-26,Evening,EPU Core,2
+2025-04-26,Evening,Pool,1
+2025-04-26,Night,EPU Core,1
+2025-04-26,Night,Pool,1
+2025-04-27,Morning,EPU Core,2
+2025-04-27,Morning,Pool,0
+2025-04-27,Day,EPU Core,1
+2025-04-27,Day,Pool,1
+2025-04-27,Evening,EPU Core,3
+2025-04-27,Evening,Pool,0
+2025-04-27,Night,EPU Core,1
+2025-04-27,Night,Pool,0
+2025-04-28,Morning,EPU Core,1
+2025-04-28,Morning,Pool,2
+2025-04-28,Day,EPU Core,3
+2025-04-28,Day,Pool,0
+2025-04-28,Evening,EPU Core,1
+2025-04-28,Evening,Pool,2
+2025-04-28,Night,EPU Core,2
+2025-04-28,Night,Pool,1
+2025-04-29,Morning,EPU Core,1
+2025-04-29,Morning,Pool,1
+2025-04-29,Day,EPU Core,2
+2025-04-29,Day,Pool,0
+2025-04-29,Evening,EPU Core,3
+2025-04-29,Evening,Pool,0
+2025-04-29,Night,EPU Core,3
+2025-04-29,Night,Pool,0
+2025-04-30,Morning,EPU Core,1
+2025-04-30,Morning,Pool,0
+2025-04-30,Day,EPU Core,2
+2025-04-30,Day,Pool,1
+2025-04-30,Evening,EPU Core,1
+2025-04-30,Evening,Pool,0
+2025-04-30,Night,EPU Core,1
+2025-04-30,Night,Pool,0
+2025-05-01,Morning,EPU Core,1
+2025-05-01,Morning,Pool,0
+2025-05-01,Day,EPU Core,1
+2025-05-01,Day,Pool,2
+2025-05-01,Evening,EPU Core,2
+2025-05-01,Evening,Pool,0
+2025-05-01,Night,EPU Core,1
+2025-05-01,Night,Pool,0
+2025-05-02,Morning,EPU Core,2
+2025-05-02,Morning,Pool,1
+2025-05-02,Day,EPU Core,1
+2025-05-02,Day,Pool,1
+2025-05-02,Evening,EPU Core,3
+2025-05-02,Evening,Pool,0
+2025-05-02,Night,EPU Core,1
+2025-05-02,Night,Pool,1
+2025-05-03,Morning,EPU Core,2
+2025-05-03,Morning,Pool,1
+2025-05-03,Day,EPU Core,1
+2025-05-03,Day,Pool,0
+2025-05-03,Evening,EPU Core,2
+2025-05-03,Evening,Pool,1
+2025-05-03,Night,EPU Core,1
+2025-05-03,Night,Pool,2
+2025-05-04,Morning,EPU Core,2
+2025-05-04,Morning,Pool,0
+2025-05-04,Day,EPU Core,2
+2025-05-04,Day,Pool,0
+2025-05-04,Evening,EPU Core,1
+2025-05-04,Evening,Pool,0
+2025-05-04,Night,EPU Core,1
+2025-05-04,Night,Pool,0
+2025-05-05,Morning,EPU Core,3
+2025-05-05,Morning,Pool,0
+2025-05-05,Day,EPU Core,1
+2025-05-05,Day,Pool,1
+2025-05-05,Evening,EPU Core,2
+2025-05-05,Evening,Pool,0
+2025-05-05,Night,EPU Core,2
+2025-05-05,Night,Pool,1
+2025-05-06,Morning,EPU Core,1
+2025-05-06,Morning,Pool,0
+2025-05-06,Day,EPU Core,1
+2025-05-06,Day,Pool,1
+2025-05-06,Evening,EPU Core,2
+2025-05-06,Evening,Pool,0
+2025-05-06,Night,EPU Core,3
+2025-05-06,Night,Pool,0
+2025-05-07,Morning,EPU Core,1
+2025-05-07,Morning,Pool,0
+2025-05-07,Day,EPU Core,1
+2025-05-07,Day,Pool,2
+2025-05-07,Evening,EPU Core,1
+2025-05-07,Evening,Pool,2
+2025-05-07,Night,EPU Core,1
+2025-05-07,Night,Pool,0
+2025-05-08,Morning,EPU Core,1
+2025-05-08,Morning,Pool,0
+2025-05-08,Day,EPU Core,1
+2025-05-08,Day,Pool,2
+2025-05-08,Evening,EPU Core,1
+2025-05-08,Evening,Pool,0
+2025-05-08,Night,EPU Core,1
+2025-05-08,Night,Pool,0
+2025-05-09,Morning,EPU Core,1
+2025-05-09,Morning,Pool,2
+2025-05-09,Day,EPU Core,2
+2025-05-09,Day,Pool,1
+2025-05-09,Evening,EPU Core,1
+2025-05-09,Evening,Pool,0
+2025-05-09,Night,EPU Core,1
+2025-05-09,Night,Pool,0
+2025-05-10,Morning,EPU Core,3
+2025-05-10,Morning,Pool,0
+2025-05-10,Day,EPU Core,2
+2025-05-10,Day,Pool,1
+2025-05-10,Evening,EPU Core,1
+2025-05-10,Evening,Pool,1
+2025-05-10,Night,EPU Core,2
+2025-05-10,Night,Pool,0
+2025-05-11,Morning,EPU Core,2
+2025-05-11,Morning,Pool,1
+2025-05-11,Day,EPU Core,1
+2025-05-11,Day,Pool,0
+2025-05-11,Evening,EPU Core,3
+2025-05-11,Evening,Pool,0
+2025-05-11,Night,EPU Core,2
+2025-05-11,Night,Pool,1
+2025-05-12,Morning,EPU Core,1
+2025-05-12,Morning,Pool,0
+2025-05-12,Day,EPU Core,2
+2025-05-12,Day,Pool,1
+2025-05-12,Evening,EPU Core,3
+2025-05-12,Evening,Pool,0
+2025-05-12,Night,EPU Core,2
+2025-05-12,Night,Pool,0
+2025-05-13,Morning,EPU Core,1
+2025-05-13,Morning,Pool,0
+2025-05-13,Day,EPU Core,3
+2025-05-13,Day,Pool,0
+2025-05-13,Evening,EPU Core,1
+2025-05-13,Evening,Pool,0
+2025-05-13,Night,EPU Core,1
+2025-05-13,Night,Pool,0
+2025-05-14,Morning,EPU Core,2
+2025-05-14,Morning,Pool,0
+2025-05-14,Day,EPU Core,1
+2025-05-14,Day,Pool,1
+2025-05-14,Evening,EPU Core,1
+2025-05-14,Evening,Pool,0
+2025-05-14,Night,EPU Core,3
+2025-05-14,Night,Pool,0
+2025-05-15,Morning,EPU Core,2
+2025-05-15,Morning,Pool,1
+2025-05-15,Day,EPU Core,1
+2025-05-15,Day,Pool,1
+2025-05-15,Evening,EPU Core,1
+2025-05-15,Evening,Pool,0
+2025-05-15,Night,EPU Core,2
+2025-05-15,Night,Pool,1
+2025-05-16,Morning,EPU Core,1
+2025-05-16,Morning,Pool,1
+2025-05-16,Day,EPU Core,1
+2025-05-16,Day,Pool,0
+2025-05-16,Evening,EPU Core,1
+2025-05-16,Evening,Pool,0
+2025-05-16,Night,EPU Core,1
+2025-05-16,Night,Pool,0
+2025-05-17,Morning,EPU Core,2
+2025-05-17,Morning,Pool,0
+2025-05-17,Day,EPU Core,1
+2025-05-17,Day,Pool,0
+2025-05-17,Evening,EPU Core,1
+2025-05-17,Evening,Pool,0
+2025-05-17,Night,EPU Core,3
+2025-05-17,Night,Pool,0
+2025-05-18,Morning,EPU Core,2
+2025-05-18,Morning,Pool,1
+2025-05-18,Day,EPU Core,1
+2025-05-18,Day,Pool,0
+2025-05-18,Evening,EPU Core,1
+2025-05-18,Evening,Pool,1
+2025-05-18,Night,EPU Core,3
+2025-05-18,Night,Pool,0
+2025-05-19,Morning,EPU Core,1
+2025-05-19,Morning,Pool,0
+2025-05-19,Day,EPU Core,3
+2025-05-19,Day,Pool,0
+2025-05-19,Evening,EPU Core,2
+2025-05-19,Evening,Pool,0
+2025-05-19,Night,EPU Core,2
+2025-05-19,Night,Pool,0
+2025-05-20,Morning,EPU Core,1
+2025-05-20,Morning,Pool,1
+2025-05-20,Day,EPU Core,1
+2025-05-20,Day,Pool,1
+2025-05-20,Evening,EPU Core,1
+2025-05-20,Evening,Pool,1
+2025-05-20,Night,EPU Core,1
+2025-05-20,Night,Pool,0
+2025-05-21,Morning,EPU Core,1
+2025-05-21,Morning,Pool,2
+2025-05-21,Day,EPU Core,1
+2025-05-21,Day,Pool,0
+2025-05-21,Evening,EPU Core,1
+2025-05-21,Evening,Pool,0
+2025-05-21,Night,EPU Core,1
+2025-05-21,Night,Pool,0
+2025-05-22,Morning,EPU Core,1
+2025-05-22,Morning,Pool,1
+2025-05-22,Day,EPU Core,1
+2025-05-22,Day,Pool,0
+2025-05-22,Evening,EPU Core,1
+2025-05-22,Evening,Pool,1
+2025-05-22,Night,EPU Core,1
+2025-05-22,Night,Pool,2
+2025-05-23,Morning,EPU Core,1
+2025-05-23,Morning,Pool,2
+2025-05-23,Day,EPU Core,1
+2025-05-23,Day,Pool,1
+2025-05-23,Evening,EPU Core,2
+2025-05-23,Evening,Pool,0
+2025-05-23,Night,EPU Core,1
+2025-05-23,Night,Pool,2
+2025-05-24,Morning,EPU Core,1
+2025-05-24,Morning,Pool,1
+2025-05-24,Day,EPU Core,2
+2025-05-24,Day,Pool,1
+2025-05-24,Evening,EPU Core,2
+2025-05-24,Evening,Pool,0
+2025-05-24,Night,EPU Core,1
+2025-05-24,Night,Pool,1
+2025-05-25,Morning,EPU Core,1
+2025-05-25,Morning,Pool,1
+2025-05-25,Day,EPU Core,1
+2025-05-25,Day,Pool,0
+2025-05-25,Evening,EPU Core,2
+2025-05-25,Evening,Pool,0
+2025-05-25,Night,EPU Core,1
+2025-05-25,Night,Pool,1
+2025-05-26,Morning,EPU Core,1
+2025-05-26,Morning,Pool,1
+2025-05-26,Day,EPU Core,3
+2025-05-26,Day,Pool,0
+2025-05-26,Evening,EPU Core,2
+2025-05-26,Evening,Pool,0
+2025-05-26,Night,EPU Core,2
+2025-05-26,Night,Pool,1
+2025-05-27,Morning,EPU Core,1
+2025-05-27,Morning,Pool,1
+2025-05-27,Day,EPU Core,2
+2025-05-27,Day,Pool,1
+2025-05-27,Evening,EPU Core,1
+2025-05-27,Evening,Pool,2
+2025-05-27,Night,EPU Core,1
+2025-05-27,Night,Pool,1
+2025-05-28,Morning,EPU Core,3
+2025-05-28,Morning,Pool,0
+2025-05-28,Day,EPU Core,1
+2025-05-28,Day,Pool,1
+2025-05-28,Evening,EPU Core,1
+2025-05-28,Evening,Pool,0
+2025-05-28,Night,EPU Core,3
+2025-05-28,Night,Pool,0
+2025-05-29,Morning,EPU Core,2
+2025-05-29,Morning,Pool,0
+2025-05-29,Day,EPU Core,1
+2025-05-29,Day,Pool,0
+2025-05-29,Evening,EPU Core,2
+2025-05-29,Evening,Pool,0
+2025-05-29,Night,EPU Core,1
+2025-05-29,Night,Pool,1
+2025-05-30,Morning,EPU Core,1
+2025-05-30,Morning,Pool,0
+2025-05-30,Day,EPU Core,2
+2025-05-30,Day,Pool,0
+2025-05-30,Evening,EPU Core,1
+2025-05-30,Evening,Pool,0
+2025-05-30,Night,EPU Core,3
+2025-05-30,Night,Pool,0
+2025-05-31,Morning,EPU Core,1
+2025-05-31,Morning,Pool,0
+2025-05-31,Day,EPU Core,1
+2025-05-31,Day,Pool,2
+2025-05-31,Evening,EPU Core,3
+2025-05-31,Evening,Pool,0
+2025-05-31,Night,EPU Core,3
+2025-05-31,Night,Pool,0
+2025-06-01,Morning,EPU Core,1
+2025-06-01,Morning,Pool,0
+2025-06-01,Day,EPU Core,2
+2025-06-01,Day,Pool,1
+2025-06-01,Evening,EPU Core,2
+2025-06-01,Evening,Pool,0
+2025-06-01,Night,EPU Core,1
+2025-06-01,Night,Pool,0
+2025-06-02,Morning,EPU Core,1
+2025-06-02,Morning,Pool,0
+2025-06-02,Day,EPU Core,2
+2025-06-02,Day,Pool,1
+2025-06-02,Evening,EPU Core,1
+2025-06-02,Evening,Pool,0
+2025-06-02,Night,EPU Core,1
+2025-06-02,Night,Pool,0
+2025-06-03,Morning,EPU Core,2
+2025-06-03,Morning,Pool,1
+2025-06-03,Day,EPU Core,2
+2025-06-03,Day,Pool,1
+2025-06-03,Evening,EPU Core,1
+2025-06-03,Evening,Pool,2
+2025-06-03,Night,EPU Core,3
+2025-06-03,Night,Pool,0
+2025-06-04,Morning,EPU Core,2
+2025-06-04,Morning,Pool,0
+2025-06-04,Day,EPU Core,1
+2025-06-04,Day,Pool,1
+2025-06-04,Evening,EPU Core,2
+2025-06-04,Evening,Pool,0
+2025-06-04,Night,EPU Core,1
+2025-06-04,Night,Pool,0
+2025-06-05,Morning,EPU Core,1
+2025-06-05,Morning,Pool,0
+2025-06-05,Day,EPU Core,3
+2025-06-05,Day,Pool,0
+2025-06-05,Evening,EPU Core,1
+2025-06-05,Evening,Pool,0
+2025-06-05,Night,EPU Core,2
+2025-06-05,Night,Pool,0
+2025-06-06,Morning,EPU Core,1
+2025-06-06,Morning,Pool,0
+2025-06-06,Day,EPU Core,2
+2025-06-06,Day,Pool,0
+2025-06-06,Evening,EPU Core,2
+2025-06-06,Evening,Pool,0
+2025-06-06,Night,EPU Core,2
+2025-06-06,Night,Pool,1
+2025-06-07,Morning,EPU Core,3
+2025-06-07,Morning,Pool,0
+2025-06-07,Day,EPU Core,3
+2025-06-07,Day,Pool,0
+2025-06-07,Evening,EPU Core,3
+2025-06-07,Evening,Pool,0
+2025-06-07,Night,EPU Core,1
+2025-06-07,Night,Pool,0
+2025-06-08,Morning,EPU Core,1
+2025-06-08,Morning,Pool,0
+2025-06-08,Day,EPU Core,2
+2025-06-08,Day,Pool,0
+2025-06-08,Evening,EPU Core,2
+2025-06-08,Evening,Pool,1
+2025-06-08,Night,EPU Core,1
+2025-06-08,Night,Pool,0
+2025-06-09,Morning,EPU Core,1
+2025-06-09,Morning,Pool,0
+2025-06-09,Day,EPU Core,2
+2025-06-09,Day,Pool,1
+2025-06-09,Evening,EPU Core,1
+2025-06-09,Evening,Pool,0
+2025-06-09,Night,EPU Core,1
+2025-06-09,Night,Pool,1
+2025-06-10,Morning,EPU Core,1
+2025-06-10,Morning,Pool,1
+2025-06-10,Day,EPU Core,1
+2025-06-10,Day,Pool,0
+2025-06-10,Evening,EPU Core,1
+2025-06-10,Evening,Pool,0
+2025-06-10,Night,EPU Core,1
+2025-06-10,Night,Pool,1
+2025-06-11,Morning,EPU Core,1
+2025-06-11,Morning,Pool,2
+2025-06-11,Day,EPU Core,1
+2025-06-11,Day,Pool,1
+2025-06-11,Evening,EPU Core,3
+2025-06-11,Evening,Pool,0
+2025-06-11,Night,EPU Core,1
+2025-06-11,Night,Pool,0
+2025-06-12,Morning,EPU Core,2
+2025-06-12,Morning,Pool,1
+2025-06-12,Day,EPU Core,3
+2025-06-12,Day,Pool,0
+2025-06-12,Evening,EPU Core,1
+2025-06-12,Evening,Pool,2
+2025-06-12,Night,EPU Core,2
+2025-06-12,Night,Pool,0
+2025-06-13,Morning,EPU Core,1
+2025-06-13,Morning,Pool,0
+2025-06-13,Day,EPU Core,2
+2025-06-13,Day,Pool,0
+2025-06-13,Evening,EPU Core,2
+2025-06-13,Evening,Pool,1
+2025-06-13,Night,EPU Core,1
+2025-06-13,Night,Pool,0
+2025-06-14,Morning,EPU Core,1
+2025-06-14,Morning,Pool,0
+2025-06-14,Day,EPU Core,2
+2025-06-14,Day,Pool,0
+2025-06-14,Evening,EPU Core,2
+2025-06-14,Evening,Pool,0
+2025-06-14,Night,EPU Core,2
+2025-06-14,Night,Pool,0
+2025-06-15,Morning,EPU Core,2
+2025-06-15,Morning,Pool,0
+2025-06-15,Day,EPU Core,1
+2025-06-15,Day,Pool,1
+2025-06-15,Evening,EPU Core,2
+2025-06-15,Evening,Pool,1
+2025-06-15,Night,EPU Core,2
+2025-06-15,Night,Pool,0
+2025-06-16,Morning,EPU Core,3
+2025-06-16,Morning,Pool,0
+2025-06-16,Day,EPU Core,3
+2025-06-16,Day,Pool,0
+2025-06-16,Evening,EPU Core,1
+2025-06-16,Evening,Pool,1
+2025-06-16,Night,EPU Core,1
+2025-06-16,Night,Pool,1
+2025-06-17,Morning,EPU Core,2
+2025-06-17,Morning,Pool,1
+2025-06-17,Day,EPU Core,1
+2025-06-17,Day,Pool,0
+2025-06-17,Evening,EPU Core,1
+2025-06-17,Evening,Pool,2
+2025-06-17,Night,EPU Core,1
+2025-06-17,Night,Pool,0
+2025-06-18,Morning,EPU Core,1
+2025-06-18,Morning,Pool,0
+2025-06-18,Day,EPU Core,2
+2025-06-18,Day,Pool,0
+2025-06-18,Evening,EPU Core,2
+2025-06-18,Evening,Pool,0
+2025-06-18,Night,EPU Core,1
+2025-06-18,Night,Pool,2
+2025-06-19,Morning,EPU Core,2
+2025-06-19,Morning,Pool,1
+2025-06-19,Day,EPU Core,3
+2025-06-19,Day,Pool,0
+2025-06-19,Evening,EPU Core,1
+2025-06-19,Evening,Pool,0
+2025-06-19,Night,EPU Core,2
+2025-06-19,Night,Pool,1
+2025-06-20,Morning,EPU Core,1
+2025-06-20,Morning,Pool,0
+2025-06-20,Day,EPU Core,1
+2025-06-20,Day,Pool,0
+2025-06-20,Evening,EPU Core,1
+2025-06-20,Evening,Pool,0
+2025-06-20,Night,EPU Core,1
+2025-06-20,Night,Pool,1
+2025-06-21,Morning,EPU Core,1
+2025-06-21,Morning,Pool,0
+2025-06-21,Day,EPU Core,2
+2025-06-21,Day,Pool,0
+2025-06-21,Evening,EPU Core,1
+2025-06-21,Evening,Pool,1
+2025-06-21,Night,EPU Core,1
+2025-06-21,Night,Pool,0
+2025-06-22,Morning,EPU Core,1
+2025-06-22,Morning,Pool,1
+2025-06-22,Day,EPU Core,1
+2025-06-22,Day,Pool,2
+2025-06-22,Evening,EPU Core,1
+2025-06-22,Evening,Pool,0
+2025-06-22,Night,EPU Core,2
+2025-06-22,Night,Pool,1
+2025-06-23,Morning,EPU Core,1
+2025-06-23,Morning,Pool,2
+2025-06-23,Day,EPU Core,1
+2025-06-23,Day,Pool,0
+2025-06-23,Evening,EPU Core,1
+2025-06-23,Evening,Pool,0
+2025-06-23,Night,EPU Core,2
+2025-06-23,Night,Pool,1
+2025-06-24,Morning,EPU Core,1
+2025-06-24,Morning,Pool,2
+2025-06-24,Day,EPU Core,1
+2025-06-24,Day,Pool,1
+2025-06-24,Evening,EPU Core,1
+2025-06-24,Evening,Pool,1
+2025-06-24,Night,EPU Core,1
+2025-06-24,Night,Pool,2
+2025-06-25,Morning,EPU Core,2
+2025-06-25,Morning,Pool,0
+2025-06-25,Day,EPU Core,1
+2025-06-25,Day,Pool,2
+2025-06-25,Evening,EPU Core,2
+2025-06-25,Evening,Pool,0
+2025-06-25,Night,EPU Core,3
+2025-06-25,Night,Pool,0
+2025-06-26,Morning,EPU Core,1
+2025-06-26,Morning,Pool,0
+2025-06-26,Day,EPU Core,2
+2025-06-26,Day,Pool,0
+2025-06-26,Evening,EPU Core,1
+2025-06-26,Evening,Pool,1
+2025-06-26,Night,EPU Core,2
+2025-06-26,Night,Pool,0
+2025-06-27,Morning,EPU Core,1
+2025-06-27,Morning,Pool,1
+2025-06-27,Day,EPU Core,3
+2025-06-27,Day,Pool,0
+2025-06-27,Evening,EPU Core,2
+2025-06-27,Evening,Pool,1
+2025-06-27,Night,EPU Core,3
+2025-06-27,Night,Pool,0
+2025-06-28,Morning,EPU Core,2
+2025-06-28,Morning,Pool,0
+2025-06-28,Day,EPU Core,1
+2025-06-28,Day,Pool,0
+2025-06-28,Evening,EPU Core,1
+2025-06-28,Evening,Pool,0
+2025-06-28,Night,EPU Core,2
+2025-06-28,Night,Pool,0
+2025-06-29,Morning,EPU Core,1
+2025-06-29,Morning,Pool,2
+2025-06-29,Day,EPU Core,2
+2025-06-29,Day,Pool,1
+2025-06-29,Evening,EPU Core,1
+2025-06-29,Evening,Pool,0
+2025-06-29,Night,EPU Core,1
+2025-06-29,Night,Pool,1
+2025-06-30,Morning,EPU Core,2
+2025-06-30,Morning,Pool,0
+2025-06-30,Day,EPU Core,3
+2025-06-30,Day,Pool,0
+2025-06-30,Evening,EPU Core,1
+2025-06-30,Evening,Pool,0
+2025-06-30,Night,EPU Core,1
+2025-06-30,Night,Pool,0
+2025-07-01,Morning,EPU Core,1
+2025-07-01,Morning,Pool,2
+2025-07-01,Day,EPU Core,3
+2025-07-01,Day,Pool,0
+2025-07-01,Evening,EPU Core,1
+2025-07-01,Evening,Pool,0
+2025-07-01,Night,EPU Core,1
+2025-07-01,Night,Pool,0
+2025-07-02,Morning,EPU Core,1
+2025-07-02,Morning,Pool,1
+2025-07-02,Day,EPU Core,1
+2025-07-02,Day,Pool,0
+2025-07-02,Evening,EPU Core,2
+2025-07-02,Evening,Pool,0
+2025-07-02,Night,EPU Core,3
+2025-07-02,Night,Pool,0
+2025-07-03,Morning,EPU Core,1
+2025-07-03,Morning,Pool,2
+2025-07-03,Day,EPU Core,1
+2025-07-03,Day,Pool,1
+2025-07-03,Evening,EPU Core,3
+2025-07-03,Evening,Pool,0
+2025-07-03,Night,EPU Core,1
+2025-07-03,Night,Pool,2
+2025-07-04,Morning,EPU Core,2
+2025-07-04,Morning,Pool,1
+2025-07-04,Day,EPU Core,1
+2025-07-04,Day,Pool,0
+2025-07-04,Evening,EPU Core,2
+2025-07-04,Evening,Pool,0
+2025-07-04,Night,EPU Core,1
+2025-07-04,Night,Pool,0
+2025-07-05,Morning,EPU Core,1
+2025-07-05,Morning,Pool,2
+2025-07-05,Day,EPU Core,2
+2025-07-05,Day,Pool,0
+2025-07-05,Evening,EPU Core,1
+2025-07-05,Evening,Pool,1
+2025-07-05,Night,EPU Core,1
+2025-07-05,Night,Pool,0
+2025-07-06,Morning,EPU Core,1
+2025-07-06,Morning,Pool,0
+2025-07-06,Day,EPU Core,3
+2025-07-06,Day,Pool,0
+2025-07-06,Evening,EPU Core,1
+2025-07-06,Evening,Pool,2
+2025-07-06,Night,EPU Core,2
+2025-07-06,Night,Pool,0
+2025-07-07,Morning,EPU Core,1
+2025-07-07,Morning,Pool,1
+2025-07-07,Day,EPU Core,2
+2025-07-07,Day,Pool,0
+2025-07-07,Evening,EPU Core,1
+2025-07-07,Evening,Pool,0
+2025-07-07,Night,EPU Core,1
+2025-07-07,Night,Pool,1
+2025-07-08,Morning,EPU Core,1
+2025-07-08,Morning,Pool,0
+2025-07-08,Day,EPU Core,2
+2025-07-08,Day,Pool,0
+2025-07-08,Evening,EPU Core,1
+2025-07-08,Evening,Pool,1
+2025-07-08,Night,EPU Core,1
+2025-07-08,Night,Pool,0
+2025-07-09,Morning,EPU Core,1
+2025-07-09,Morning,Pool,0
+2025-07-09,Day,EPU Core,1
+2025-07-09,Day,Pool,0
+2025-07-09,Evening,EPU Core,1
+2025-07-09,Evening,Pool,1
+2025-07-09,Night,EPU Core,1
+2025-07-09,Night,Pool,0
+2025-07-10,Morning,EPU Core,2
+2025-07-10,Morning,Pool,1
+2025-07-10,Day,EPU Core,1
+2025-07-10,Day,Pool,0
+2025-07-10,Evening,EPU Core,1
+2025-07-10,Evening,Pool,0
+2025-07-10,Night,EPU Core,1
+2025-07-10,Night,Pool,0
+2025-07-11,Morning,EPU Core,1
+2025-07-11,Morning,Pool,0
+2025-07-11,Day,EPU Core,1
+2025-07-11,Day,Pool,0
+2025-07-11,Evening,EPU Core,1
+2025-07-11,Evening,Pool,0
+2025-07-11,Night,EPU Core,2
+2025-07-11,Night,Pool,0
+2025-07-12,Morning,EPU Core,2
+2025-07-12,Morning,Pool,0
+2025-07-12,Day,EPU Core,1
+2025-07-12,Day,Pool,1
+2025-07-12,Evening,EPU Core,1
+2025-07-12,Evening,Pool,0
+2025-07-12,Night,EPU Core,2
+2025-07-12,Night,Pool,0
+2025-07-13,Morning,EPU Core,1
+2025-07-13,Morning,Pool,0
+2025-07-13,Day,EPU Core,1
+2025-07-13,Day,Pool,0
+2025-07-13,Evening,EPU Core,1
+2025-07-13,Evening,Pool,0
+2025-07-13,Night,EPU Core,2
+2025-07-13,Night,Pool,1
+2025-07-14,Morning,EPU Core,2
+2025-07-14,Morning,Pool,0
+2025-07-14,Day,EPU Core,2
+2025-07-14,Day,Pool,0
+2025-07-14,Evening,EPU Core,1
+2025-07-14,Evening,Pool,1
+2025-07-14,Night,EPU Core,1
+2025-07-14,Night,Pool,0
+2025-07-15,Morning,EPU Core,1
+2025-07-15,Morning,Pool,2
+2025-07-15,Day,EPU Core,1
+2025-07-15,Day,Pool,1
+2025-07-15,Evening,EPU Core,1
+2025-07-15,Evening,Pool,2
+2025-07-15,Night,EPU Core,1
+2025-07-15,Night,Pool,2
+2025-07-16,Morning,EPU Core,2
+2025-07-16,Morning,Pool,0
+2025-07-16,Day,EPU Core,1
+2025-07-16,Day,Pool,1
+2025-07-16,Evening,EPU Core,1
+2025-07-16,Evening,Pool,0
+2025-07-16,Night,EPU Core,1
+2025-07-16,Night,Pool,1
+2025-07-17,Morning,EPU Core,1
+2025-07-17,Morning,Pool,1
+2025-07-17,Day,EPU Core,2
+2025-07-17,Day,Pool,0
+2025-07-17,Evening,EPU Core,1
+2025-07-17,Evening,Pool,0
+2025-07-17,Night,EPU Core,1
+2025-07-17,Night,Pool,0
+2025-07-18,Morning,EPU Core,1
+2025-07-18,Morning,Pool,1
+2025-07-18,Day,EPU Core,1
+2025-07-18,Day,Pool,0
+2025-07-18,Evening,EPU Core,2
+2025-07-18,Evening,Pool,1
+2025-07-18,Night,EPU Core,1
+2025-07-18,Night,Pool,2
+2025-07-19,Morning,EPU Core,1
+2025-07-19,Morning,Pool,0
+2025-07-19,Day,EPU Core,1
+2025-07-19,Day,Pool,0
+2025-07-19,Evening,EPU Core,1
+2025-07-19,Evening,Pool,0
+2025-07-19,Night,EPU Core,1
+2025-07-19,Night,Pool,2
+2025-07-20,Morning,EPU Core,1
+2025-07-20,Morning,Pool,1
+2025-07-20,Day,EPU Core,3
+2025-07-20,Day,Pool,0
+2025-07-20,Evening,EPU Core,1
+2025-07-20,Evening,Pool,1
+2025-07-20,Night,EPU Core,1
+2025-07-20,Night,Pool,0
+2025-07-21,Morning,EPU Core,1
+2025-07-21,Morning,Pool,0
+2025-07-21,Day,EPU Core,2
+2025-07-21,Day,Pool,1
+2025-07-21,Evening,EPU Core,1
+2025-07-21,Evening,Pool,1
+2025-07-21,Night,EPU Core,1
+2025-07-21,Night,Pool,1
+2025-07-22,Morning,EPU Core,1
+2025-07-22,Morning,Pool,2
+2025-07-22,Day,EPU Core,1
+2025-07-22,Day,Pool,0
+2025-07-22,Evening,EPU Core,1
+2025-07-22,Evening,Pool,1
+2025-07-22,Night,EPU Core,1
+2025-07-22,Night,Pool,0
+2025-07-23,Morning,EPU Core,1
+2025-07-23,Morning,Pool,1
+2025-07-23,Day,EPU Core,1
+2025-07-23,Day,Pool,2
+2025-07-23,Evening,EPU Core,3
+2025-07-23,Evening,Pool,0
+2025-07-23,Night,EPU Core,2
+2025-07-23,Night,Pool,1
+2025-07-24,Morning,EPU Core,1
+2025-07-24,Morning,Pool,1
+2025-07-24,Day,EPU Core,1
+2025-07-24,Day,Pool,1
+2025-07-24,Evening,EPU Core,1
+2025-07-24,Evening,Pool,0
+2025-07-24,Night,EPU Core,1
+2025-07-24,Night,Pool,0
+2025-07-25,Morning,EPU Core,1
+2025-07-25,Morning,Pool,0
+2025-07-25,Day,EPU Core,1
+2025-07-25,Day,Pool,2
+2025-07-25,Evening,EPU Core,1
+2025-07-25,Evening,Pool,2
+2025-07-25,Night,EPU Core,1
+2025-07-25,Night,Pool,2
+2025-07-26,Morning,EPU Core,1
+2025-07-26,Morning,Pool,1
+2025-07-26,Day,EPU Core,1
+2025-07-26,Day,Pool,0
+2025-07-26,Evening,EPU Core,1
+2025-07-26,Evening,Pool,2
+2025-07-26,Night,EPU Core,1
+2025-07-26,Night,Pool,0
+2025-07-27,Morning,EPU Core,1
+2025-07-27,Morning,Pool,0
+2025-07-27,Day,EPU Core,1
+2025-07-27,Day,Pool,1
+2025-07-27,Evening,EPU Core,1
+2025-07-27,Evening,Pool,0
+2025-07-27,Night,EPU Core,1
+2025-07-27,Night,Pool,1
+2025-07-28,Morning,EPU Core,1
+2025-07-28,Morning,Pool,1
+2025-07-28,Day,EPU Core,2
+2025-07-28,Day,Pool,1
+2025-07-28,Evening,EPU Core,3
+2025-07-28,Evening,Pool,0
+2025-07-28,Night,EPU Core,2
+2025-07-28,Night,Pool,0
+2025-07-29,Morning,EPU Core,1
+2025-07-29,Morning,Pool,0
+2025-07-29,Day,EPU Core,2
+2025-07-29,Day,Pool,1
+2025-07-29,Evening,EPU Core,2
+2025-07-29,Evening,Pool,1
+2025-07-29,Night,EPU Core,2
+2025-07-29,Night,Pool,0
+2025-07-30,Morning,EPU Core,3
+2025-07-30,Morning,Pool,0
+2025-07-30,Day,EPU Core,1
+2025-07-30,Day,Pool,0
+2025-07-30,Evening,EPU Core,1
+2025-07-30,Evening,Pool,0
+2025-07-30,Night,EPU Core,1
+2025-07-30,Night,Pool,2
+2025-07-31,Morning,EPU Core,1
+2025-07-31,Morning,Pool,0
+2025-07-31,Day,EPU Core,1
+2025-07-31,Day,Pool,0
+2025-07-31,Evening,EPU Core,1
+2025-07-31,Evening,Pool,0
+2025-07-31,Night,EPU Core,1
+2025-07-31,Night,Pool,2
+2025-08-01,Morning,EPU Core,2
+2025-08-01,Morning,Pool,1
+2025-08-01,Day,EPU Core,1
+2025-08-01,Day,Pool,2
+2025-08-01,Evening,EPU Core,1
+2025-08-01,Evening,Pool,0
+2025-08-01,Night,EPU Core,1
+2025-08-01,Night,Pool,2
+2025-08-02,Morning,EPU Core,1
+2025-08-02,Morning,Pool,0
+2025-08-02,Day,EPU Core,1
+2025-08-02,Day,Pool,2
+2025-08-02,Evening,EPU Core,1
+2025-08-02,Evening,Pool,0
+2025-08-02,Night,EPU Core,1
+2025-08-02,Night,Pool,1
+2025-08-03,Morning,EPU Core,2
+2025-08-03,Morning,Pool,0
+2025-08-03,Day,EPU Core,2
+2025-08-03,Day,Pool,0
+2025-08-03,Evening,EPU Core,2
+2025-08-03,Evening,Pool,0
+2025-08-03,Night,EPU Core,1
+2025-08-03,Night,Pool,0
+2025-08-04,Morning,EPU Core,1
+2025-08-04,Morning,Pool,2
+2025-08-04,Day,EPU Core,3
+2025-08-04,Day,Pool,0
+2025-08-04,Evening,EPU Core,2
+2025-08-04,Evening,Pool,0
+2025-08-04,Night,EPU Core,1
+2025-08-04,Night,Pool,0
+2025-08-05,Morning,EPU Core,1
+2025-08-05,Morning,Pool,0
+2025-08-05,Day,EPU Core,1
+2025-08-05,Day,Pool,1
+2025-08-05,Evening,EPU Core,1
+2025-08-05,Evening,Pool,1
+2025-08-05,Night,EPU Core,1
+2025-08-05,Night,Pool,0
+2025-08-06,Morning,EPU Core,2
+2025-08-06,Morning,Pool,0
+2025-08-06,Day,EPU Core,2
+2025-08-06,Day,Pool,0
+2025-08-06,Evening,EPU Core,2
+2025-08-06,Evening,Pool,1
+2025-08-06,Night,EPU Core,1
+2025-08-06,Night,Pool,1
+2025-08-07,Morning,EPU Core,1
+2025-08-07,Morning,Pool,1
+2025-08-07,Day,EPU Core,1
+2025-08-07,Day,Pool,0
+2025-08-07,Evening,EPU Core,1
+2025-08-07,Evening,Pool,0
+2025-08-07,Night,EPU Core,2
+2025-08-07,Night,Pool,0
+2025-08-08,Morning,EPU Core,3
+2025-08-08,Morning,Pool,0
+2025-08-08,Day,EPU Core,1
+2025-08-08,Day,Pool,0
+2025-08-08,Evening,EPU Core,3
+2025-08-08,Evening,Pool,0
+2025-08-08,Night,EPU Core,1
+2025-08-08,Night,Pool,1
+2025-08-09,Morning,EPU Core,1
+2025-08-09,Morning,Pool,1
+2025-08-09,Day,EPU Core,2
+2025-08-09,Day,Pool,0
+2025-08-09,Evening,EPU Core,3
+2025-08-09,Evening,Pool,0
+2025-08-09,Night,EPU Core,1
+2025-08-09,Night,Pool,1
+2025-08-10,Morning,EPU Core,2
+2025-08-10,Morning,Pool,0
+2025-08-10,Day,EPU Core,1
+2025-08-10,Day,Pool,0
+2025-08-10,Evening,EPU Core,1
+2025-08-10,Evening,Pool,0
+2025-08-10,Night,EPU Core,1
+2025-08-10,Night,Pool,0
+2025-08-11,Morning,EPU Core,1
+2025-08-11,Morning,Pool,0
+2025-08-11,Day,EPU Core,2
+2025-08-11,Day,Pool,0
+2025-08-11,Evening,EPU Core,2
+2025-08-11,Evening,Pool,0
+2025-08-11,Night,EPU Core,1
+2025-08-11,Night,Pool,0
+2025-08-12,Morning,EPU Core,1
+2025-08-12,Morning,Pool,1
+2025-08-12,Day,EPU Core,1
+2025-08-12,Day,Pool,0
+2025-08-12,Evening,EPU Core,1
+2025-08-12,Evening,Pool,0
+2025-08-12,Night,EPU Core,1
+2025-08-12,Night,Pool,0
+2025-08-13,Morning,EPU Core,1
+2025-08-13,Morning,Pool,1
+2025-08-13,Day,EPU Core,1
+2025-08-13,Day,Pool,1
+2025-08-13,Evening,EPU Core,2
+2025-08-13,Evening,Pool,0
+2025-08-13,Night,EPU Core,1
+2025-08-13,Night,Pool,0
+2025-08-14,Morning,EPU Core,1
+2025-08-14,Morning,Pool,1
+2025-08-14,Day,EPU Core,2
+2025-08-14,Day,Pool,0
+2025-08-14,Evening,EPU Core,1
+2025-08-14,Evening,Pool,0
+2025-08-14,Night,EPU Core,2
+2025-08-14,Night,Pool,1
+2025-08-15,Morning,EPU Core,1
+2025-08-15,Morning,Pool,0
+2025-08-15,Day,EPU Core,1
+2025-08-15,Day,Pool,0
+2025-08-15,Evening,EPU Core,1
+2025-08-15,Evening,Pool,1
+2025-08-15,Night,EPU Core,1
+2025-08-15,Night,Pool,0
+2025-08-16,Morning,EPU Core,2
+2025-08-16,Morning,Pool,1
+2025-08-16,Day,EPU Core,2
+2025-08-16,Day,Pool,0
+2025-08-16,Evening,EPU Core,1
+2025-08-16,Evening,Pool,1
+2025-08-16,Night,EPU Core,3
+2025-08-16,Night,Pool,0
+2025-08-17,Morning,EPU Core,1
+2025-08-17,Morning,Pool,1
+2025-08-17,Day,EPU Core,2
+2025-08-17,Day,Pool,1
+2025-08-17,Evening,EPU Core,2
+2025-08-17,Evening,Pool,1
+2025-08-17,Night,EPU Core,1
+2025-08-17,Night,Pool,0
+2025-08-18,Morning,EPU Core,2
+2025-08-18,Morning,Pool,1
+2025-08-18,Day,EPU Core,3
+2025-08-18,Day,Pool,0
+2025-08-18,Evening,EPU Core,1
+2025-08-18,Evening,Pool,0
+2025-08-18,Night,EPU Core,2
+2025-08-18,Night,Pool,1
+2025-08-19,Morning,EPU Core,2
+2025-08-19,Morning,Pool,0
+2025-08-19,Day,EPU Core,2
+2025-08-19,Day,Pool,0
+2025-08-19,Evening,EPU Core,2
+2025-08-19,Evening,Pool,1
+2025-08-19,Night,EPU Core,3
+2025-08-19,Night,Pool,0
+2025-08-20,Morning,EPU Core,1
+2025-08-20,Morning,Pool,2
+2025-08-20,Day,EPU Core,1
+2025-08-20,Day,Pool,0
+2025-08-20,Evening,EPU Core,1
+2025-08-20,Evening,Pool,0
+2025-08-20,Night,EPU Core,2
+2025-08-20,Night,Pool,1
+2025-08-21,Morning,EPU Core,1
+2025-08-21,Morning,Pool,0
+2025-08-21,Day,EPU Core,2
+2025-08-21,Day,Pool,1
+2025-08-21,Evening,EPU Core,2
+2025-08-21,Evening,Pool,0
+2025-08-21,Night,EPU Core,3
+2025-08-21,Night,Pool,0
+2025-08-22,Morning,EPU Core,2
+2025-08-22,Morning,Pool,0
+2025-08-22,Day,EPU Core,2
+2025-08-22,Day,Pool,1
+2025-08-22,Evening,EPU Core,1
+2025-08-22,Evening,Pool,0
+2025-08-22,Night,EPU Core,1
+2025-08-22,Night,Pool,0
+2025-08-23,Morning,EPU Core,1
+2025-08-23,Morning,Pool,2
+2025-08-23,Day,EPU Core,1
+2025-08-23,Day,Pool,1
+2025-08-23,Evening,EPU Core,1
+2025-08-23,Evening,Pool,0
+2025-08-23,Night,EPU Core,1
+2025-08-23,Night,Pool,0
+2025-08-24,Morning,EPU Core,1
+2025-08-24,Morning,Pool,0
+2025-08-24,Day,EPU Core,2
+2025-08-24,Day,Pool,1
+2025-08-24,Evening,EPU Core,1
+2025-08-24,Evening,Pool,0
+2025-08-24,Night,EPU Core,1
+2025-08-24,Night,Pool,2
+2025-08-25,Morning,EPU Core,1
+2025-08-25,Morning,Pool,2
+2025-08-25,Day,EPU Core,1
+2025-08-25,Day,Pool,2
+2025-08-25,Evening,EPU Core,1
+2025-08-25,Evening,Pool,0
+2025-08-25,Night,EPU Core,1
+2025-08-25,Night,Pool,0
+2025-08-26,Morning,EPU Core,1
+2025-08-26,Morning,Pool,0
+2025-08-26,Day,EPU Core,1
+2025-08-26,Day,Pool,1
+2025-08-26,Evening,EPU Core,2
+2025-08-26,Evening,Pool,0
+2025-08-26,Night,EPU Core,3
+2025-08-26,Night,Pool,0
+2025-08-27,Morning,EPU Core,1
+2025-08-27,Morning,Pool,2
+2025-08-27,Day,EPU Core,1
+2025-08-27,Day,Pool,2
+2025-08-27,Evening,EPU Core,1
+2025-08-27,Evening,Pool,0
+2025-08-27,Night,EPU Core,1
+2025-08-27,Night,Pool,1
+2025-08-28,Morning,EPU Core,1
+2025-08-28,Morning,Pool,0
+2025-08-28,Day,EPU Core,1
+2025-08-28,Day,Pool,2
+2025-08-28,Evening,EPU Core,2
+2025-08-28,Evening,Pool,0
+2025-08-28,Night,EPU Core,1
+2025-08-28,Night,Pool,0
+2025-08-29,Morning,EPU Core,1
+2025-08-29,Morning,Pool,1
+2025-08-29,Day,EPU Core,1
+2025-08-29,Day,Pool,0
+2025-08-29,Evening,EPU Core,1
+2025-08-29,Evening,Pool,2
+2025-08-29,Night,EPU Core,1
+2025-08-29,Night,Pool,0
+2025-08-30,Morning,EPU Core,1
+2025-08-30,Morning,Pool,0
+2025-08-30,Day,EPU Core,1
+2025-08-30,Day,Pool,1
+2025-08-30,Evening,EPU Core,1
+2025-08-30,Evening,Pool,0
+2025-08-30,Night,EPU Core,1
+2025-08-30,Night,Pool,0
+2025-08-31,Morning,EPU Core,1
+2025-08-31,Morning,Pool,2
+2025-08-31,Day,EPU Core,2
+2025-08-31,Day,Pool,1
+2025-08-31,Evening,EPU Core,2
+2025-08-31,Evening,Pool,1
+2025-08-31,Night,EPU Core,3
+2025-08-31,Night,Pool,0
+2025-09-01,Morning,EPU Core,3
+2025-09-01,Morning,Pool,0
+2025-09-01,Day,EPU Core,2
+2025-09-01,Day,Pool,0
+2025-09-01,Evening,EPU Core,2
+2025-09-01,Evening,Pool,0
+2025-09-01,Night,EPU Core,3
+2025-09-01,Night,Pool,0
+2025-09-02,Morning,EPU Core,3
+2025-09-02,Morning,Pool,0
+2025-09-02,Day,EPU Core,2
+2025-09-02,Day,Pool,0
+2025-09-02,Evening,EPU Core,1
+2025-09-02,Evening,Pool,0
+2025-09-02,Night,EPU Core,1
+2025-09-02,Night,Pool,0
+2025-09-03,Morning,EPU Core,2
+2025-09-03,Morning,Pool,1
+2025-09-03,Day,EPU Core,3
+2025-09-03,Day,Pool,0
+2025-09-03,Evening,EPU Core,2
+2025-09-03,Evening,Pool,0
+2025-09-03,Night,EPU Core,1
+2025-09-03,Night,Pool,0
+2025-09-04,Morning,EPU Core,2
+2025-09-04,Morning,Pool,0
+2025-09-04,Day,EPU Core,1
+2025-09-04,Day,Pool,0
+2025-09-04,Evening,EPU Core,1
+2025-09-04,Evening,Pool,0
+2025-09-04,Night,EPU Core,1
+2025-09-04,Night,Pool,0
+2025-09-05,Morning,EPU Core,2
+2025-09-05,Morning,Pool,1
+2025-09-05,Day,EPU Core,1
+2025-09-05,Day,Pool,0
+2025-09-05,Evening,EPU Core,2
+2025-09-05,Evening,Pool,0
+2025-09-05,Night,EPU Core,2
+2025-09-05,Night,Pool,0
+2025-09-06,Morning,EPU Core,1
+2025-09-06,Morning,Pool,0
+2025-09-06,Day,EPU Core,1
+2025-09-06,Day,Pool,0
+2025-09-06,Evening,EPU Core,2
+2025-09-06,Evening,Pool,1
+2025-09-06,Night,EPU Core,1
+2025-09-06,Night,Pool,0
+2025-09-07,Morning,EPU Core,2
+2025-09-07,Morning,Pool,1
+2025-09-07,Day,EPU Core,1
+2025-09-07,Day,Pool,2
+2025-09-07,Evening,EPU Core,1
+2025-09-07,Evening,Pool,0
+2025-09-07,Night,EPU Core,1
+2025-09-07,Night,Pool,0
+2025-09-08,Morning,EPU Core,1
+2025-09-08,Morning,Pool,2
+2025-09-08,Day,EPU Core,2
+2025-09-08,Day,Pool,1
+2025-09-08,Evening,EPU Core,1
+2025-09-08,Evening,Pool,0
+2025-09-08,Night,EPU Core,1
+2025-09-08,Night,Pool,1
+2025-09-09,Morning,EPU Core,1
+2025-09-09,Morning,Pool,1
+2025-09-09,Day,EPU Core,2
+2025-09-09,Day,Pool,0
+2025-09-09,Evening,EPU Core,1
+2025-09-09,Evening,Pool,1
+2025-09-09,Night,EPU Core,1
+2025-09-09,Night,Pool,1
+2025-09-10,Morning,EPU Core,1
+2025-09-10,Morning,Pool,0
+2025-09-10,Day,EPU Core,1
+2025-09-10,Day,Pool,2
+2025-09-10,Evening,EPU Core,1
+2025-09-10,Evening,Pool,0
+2025-09-10,Night,EPU Core,2
+2025-09-10,Night,Pool,0
+2025-09-11,Morning,EPU Core,2
+2025-09-11,Morning,Pool,1
+2025-09-11,Day,EPU Core,2
+2025-09-11,Day,Pool,0
+2025-09-11,Evening,EPU Core,1
+2025-09-11,Evening,Pool,0
+2025-09-11,Night,EPU Core,1
+2025-09-11,Night,Pool,0
+2025-09-12,Morning,EPU Core,2
+2025-09-12,Morning,Pool,1
+2025-09-12,Day,EPU Core,1
+2025-09-12,Day,Pool,0
+2025-09-12,Evening,EPU Core,1
+2025-09-12,Evening,Pool,0
+2025-09-12,Night,EPU Core,1
+2025-09-12,Night,Pool,0
+2025-09-13,Morning,EPU Core,1
+2025-09-13,Morning,Pool,1
+2025-09-13,Day,EPU Core,1
+2025-09-13,Day,Pool,2
+2025-09-13,Evening,EPU Core,1
+2025-09-13,Evening,Pool,0
+2025-09-13,Night,EPU Core,3
+2025-09-13,Night,Pool,0
+2025-09-14,Morning,EPU Core,1
+2025-09-14,Morning,Pool,0
+2025-09-14,Day,EPU Core,1
+2025-09-14,Day,Pool,0
+2025-09-14,Evening,EPU Core,1
+2025-09-14,Evening,Pool,2
+2025-09-14,Night,EPU Core,1
+2025-09-14,Night,Pool,1
+2025-09-15,Morning,EPU Core,1
+2025-09-15,Morning,Pool,2
+2025-09-15,Day,EPU Core,1
+2025-09-15,Day,Pool,1
+2025-09-15,Evening,EPU Core,1
+2025-09-15,Evening,Pool,0
+2025-09-15,Night,EPU Core,1
+2025-09-15,Night,Pool,0
+2025-09-16,Morning,EPU Core,2
+2025-09-16,Morning,Pool,0
+2025-09-16,Day,EPU Core,1
+2025-09-16,Day,Pool,1
+2025-09-16,Evening,EPU Core,1
+2025-09-16,Evening,Pool,0
+2025-09-16,Night,EPU Core,2
+2025-09-16,Night,Pool,0
+2025-09-17,Morning,EPU Core,1
+2025-09-17,Morning,Pool,1
+2025-09-17,Day,EPU Core,1
+2025-09-17,Day,Pool,0
+2025-09-17,Evening,EPU Core,1
+2025-09-17,Evening,Pool,0
+2025-09-17,Night,EPU Core,2
+2025-09-17,Night,Pool,1
+2025-09-18,Morning,EPU Core,2
+2025-09-18,Morning,Pool,1
+2025-09-18,Day,EPU Core,1
+2025-09-18,Day,Pool,0
+2025-09-18,Evening,EPU Core,2
+2025-09-18,Evening,Pool,0
+2025-09-18,Night,EPU Core,1
+2025-09-18,Night,Pool,1
+2025-09-19,Morning,EPU Core,2
+2025-09-19,Morning,Pool,0
+2025-09-19,Day,EPU Core,3
+2025-09-19,Day,Pool,0
+2025-09-19,Evening,EPU Core,1
+2025-09-19,Evening,Pool,0
+2025-09-19,Night,EPU Core,1
+2025-09-19,Night,Pool,0
+2025-09-20,Morning,EPU Core,1
+2025-09-20,Morning,Pool,0
+2025-09-20,Day,EPU Core,1
+2025-09-20,Day,Pool,1
+2025-09-20,Evening,EPU Core,3
+2025-09-20,Evening,Pool,0
+2025-09-20,Night,EPU Core,2
+2025-09-20,Night,Pool,0
+2025-09-21,Morning,EPU Core,2
+2025-09-21,Morning,Pool,0
+2025-09-21,Day,EPU Core,1
+2025-09-21,Day,Pool,2
+2025-09-21,Evening,EPU Core,2
+2025-09-21,Evening,Pool,0
+2025-09-21,Night,EPU Core,3
+2025-09-21,Night,Pool,0
+2025-09-22,Morning,EPU Core,1
+2025-09-22,Morning,Pool,0
+2025-09-22,Day,EPU Core,1
+2025-09-22,Day,Pool,1
+2025-09-22,Evening,EPU Core,1
+2025-09-22,Evening,Pool,2
+2025-09-22,Night,EPU Core,2
+2025-09-22,Night,Pool,1
+2025-09-23,Morning,EPU Core,1
+2025-09-23,Morning,Pool,0
+2025-09-23,Day,EPU Core,1
+2025-09-23,Day,Pool,0
+2025-09-23,Evening,EPU Core,1
+2025-09-23,Evening,Pool,2
+2025-09-23,Night,EPU Core,1
+2025-09-23,Night,Pool,1
+2025-09-24,Morning,EPU Core,2
+2025-09-24,Morning,Pool,0
+2025-09-24,Day,EPU Core,1
+2025-09-24,Day,Pool,2
+2025-09-24,Evening,EPU Core,2
+2025-09-24,Evening,Pool,0
+2025-09-24,Night,EPU Core,3
+2025-09-24,Night,Pool,0
+2025-09-25,Morning,EPU Core,2
+2025-09-25,Morning,Pool,0
+2025-09-25,Day,EPU Core,1
+2025-09-25,Day,Pool,0
+2025-09-25,Evening,EPU Core,2
+2025-09-25,Evening,Pool,0
+2025-09-25,Night,EPU Core,3
+2025-09-25,Night,Pool,0
+2025-09-26,Morning,EPU Core,1
+2025-09-26,Morning,Pool,0
+2025-09-26,Day,EPU Core,3
+2025-09-26,Day,Pool,0
+2025-09-26,Evening,EPU Core,1
+2025-09-26,Evening,Pool,1
+2025-09-26,Night,EPU Core,1
+2025-09-26,Night,Pool,1
+2025-09-27,Morning,EPU Core,1
+2025-09-27,Morning,Pool,1
+2025-09-27,Day,EPU Core,2
+2025-09-27,Day,Pool,0
+2025-09-27,Evening,EPU Core,1
+2025-09-27,Evening,Pool,0
+2025-09-27,Night,EPU Core,1
+2025-09-27,Night,Pool,0
+2025-09-28,Morning,EPU Core,2
+2025-09-28,Morning,Pool,0
+2025-09-28,Day,EPU Core,2
+2025-09-28,Day,Pool,1
+2025-09-28,Evening,EPU Core,2
+2025-09-28,Evening,Pool,1
+2025-09-28,Night,EPU Core,1
+2025-09-28,Night,Pool,1
+2025-09-29,Morning,EPU Core,1
+2025-09-29,Morning,Pool,0
+2025-09-29,Day,EPU Core,1
+2025-09-29,Day,Pool,2
+2025-09-29,Evening,EPU Core,1
+2025-09-29,Evening,Pool,0
+2025-09-29,Night,EPU Core,2
+2025-09-29,Night,Pool,1
+2025-09-30,Morning,EPU Core,2
+2025-09-30,Morning,Pool,0
+2025-09-30,Day,EPU Core,2
+2025-09-30,Day,Pool,1
+2025-09-30,Evening,EPU Core,3
+2025-09-30,Evening,Pool,0
+2025-09-30,Night,EPU Core,1
+2025-09-30,Night,Pool,1
+2025-10-01,Morning,EPU Core,3
+2025-10-01,Morning,Pool,0
+2025-10-01,Day,EPU Core,1
+2025-10-01,Day,Pool,0
+2025-10-01,Evening,EPU Core,1
+2025-10-01,Evening,Pool,1
+2025-10-01,Night,EPU Core,2
+2025-10-01,Night,Pool,1
+2025-10-02,Morning,EPU Core,1
+2025-10-02,Morning,Pool,2
+2025-10-02,Day,EPU Core,2
+2025-10-02,Day,Pool,0
+2025-10-02,Evening,EPU Core,1
+2025-10-02,Evening,Pool,2
+2025-10-02,Night,EPU Core,3
+2025-10-02,Night,Pool,0
+2025-10-03,Morning,EPU Core,1
+2025-10-03,Morning,Pool,0
+2025-10-03,Day,EPU Core,1
+2025-10-03,Day,Pool,0
+2025-10-03,Evening,EPU Core,2
+2025-10-03,Evening,Pool,1
+2025-10-03,Night,EPU Core,2
+2025-10-03,Night,Pool,1
+2025-10-04,Morning,EPU Core,1
+2025-10-04,Morning,Pool,0
+2025-10-04,Day,EPU Core,1
+2025-10-04,Day,Pool,0
+2025-10-04,Evening,EPU Core,1
+2025-10-04,Evening,Pool,0
+2025-10-04,Night,EPU Core,1
+2025-10-04,Night,Pool,0
+2025-10-05,Morning,EPU Core,2
+2025-10-05,Morning,Pool,1
+2025-10-05,Day,EPU Core,2
+2025-10-05,Day,Pool,1
+2025-10-05,Evening,EPU Core,1
+2025-10-05,Evening,Pool,2
+2025-10-05,Night,EPU Core,1
+2025-10-05,Night,Pool,1
+2025-10-06,Morning,EPU Core,3
+2025-10-06,Morning,Pool,0
+2025-10-06,Day,EPU Core,1
+2025-10-06,Day,Pool,0
+2025-10-06,Evening,EPU Core,1
+2025-10-06,Evening,Pool,0
+2025-10-06,Night,EPU Core,3
+2025-10-06,Night,Pool,0
+2025-10-07,Morning,EPU Core,1
+2025-10-07,Morning,Pool,0
+2025-10-07,Day,EPU Core,1
+2025-10-07,Day,Pool,0
+2025-10-07,Evening,EPU Core,1
+2025-10-07,Evening,Pool,1
+2025-10-07,Night,EPU Core,1
+2025-10-07,Night,Pool,0
+2025-10-08,Morning,EPU Core,1
+2025-10-08,Morning,Pool,0
+2025-10-08,Day,EPU Core,1
+2025-10-08,Day,Pool,0
+2025-10-08,Evening,EPU Core,1
+2025-10-08,Evening,Pool,0
+2025-10-08,Night,EPU Core,1
+2025-10-08,Night,Pool,0
+2025-10-09,Morning,EPU Core,2
+2025-10-09,Morning,Pool,1
+2025-10-09,Day,EPU Core,1
+2025-10-09,Day,Pool,2
+2025-10-09,Evening,EPU Core,2
+2025-10-09,Evening,Pool,0
+2025-10-09,Night,EPU Core,3
+2025-10-09,Night,Pool,0
+2025-10-10,Morning,EPU Core,3
+2025-10-10,Morning,Pool,0
+2025-10-10,Day,EPU Core,1
+2025-10-10,Day,Pool,0
+2025-10-10,Evening,EPU Core,1
+2025-10-10,Evening,Pool,0
+2025-10-10,Night,EPU Core,3
+2025-10-10,Night,Pool,0
+2025-10-11,Morning,EPU Core,2
+2025-10-11,Morning,Pool,1
+2025-10-11,Day,EPU Core,1
+2025-10-11,Day,Pool,0
+2025-10-11,Evening,EPU Core,2
+2025-10-11,Evening,Pool,1
+2025-10-11,Night,EPU Core,1
+2025-10-11,Night,Pool,0
+2025-10-12,Morning,EPU Core,3
+2025-10-12,Morning,Pool,0
+2025-10-12,Day,EPU Core,3
+2025-10-12,Day,Pool,0
+2025-10-12,Evening,EPU Core,1
+2025-10-12,Evening,Pool,1
+2025-10-12,Night,EPU Core,2
+2025-10-12,Night,Pool,0
+2025-10-13,Morning,EPU Core,2
+2025-10-13,Morning,Pool,0
+2025-10-13,Day,EPU Core,1
+2025-10-13,Day,Pool,1
+2025-10-13,Evening,EPU Core,1
+2025-10-13,Evening,Pool,2
+2025-10-13,Night,EPU Core,1
+2025-10-13,Night,Pool,1
+2025-10-14,Morning,EPU Core,1
+2025-10-14,Morning,Pool,0
+2025-10-14,Day,EPU Core,3
+2025-10-14,Day,Pool,0
+2025-10-14,Evening,EPU Core,3
+2025-10-14,Evening,Pool,0
+2025-10-14,Night,EPU Core,1
+2025-10-14,Night,Pool,0
+2025-10-15,Morning,EPU Core,1
+2025-10-15,Morning,Pool,2
+2025-10-15,Day,EPU Core,1
+2025-10-15,Day,Pool,2
+2025-10-15,Evening,EPU Core,1
+2025-10-15,Evening,Pool,1
+2025-10-15,Night,EPU Core,1
+2025-10-15,Night,Pool,2
+2025-10-16,Morning,EPU Core,1
+2025-10-16,Morning,Pool,1
+2025-10-16,Day,EPU Core,3
+2025-10-16,Day,Pool,0
+2025-10-16,Evening,EPU Core,1
+2025-10-16,Evening,Pool,1
+2025-10-16,Night,EPU Core,1
+2025-10-16,Night,Pool,2
+2025-10-17,Morning,EPU Core,2
+2025-10-17,Morning,Pool,0
+2025-10-17,Day,EPU Core,2
+2025-10-17,Day,Pool,0
+2025-10-17,Evening,EPU Core,2
+2025-10-17,Evening,Pool,0
+2025-10-17,Night,EPU Core,1
+2025-10-17,Night,Pool,0
+2025-10-18,Morning,EPU Core,2
+2025-10-18,Morning,Pool,0
+2025-10-18,Day,EPU Core,2
+2025-10-18,Day,Pool,0
+2025-10-18,Evening,EPU Core,1
+2025-10-18,Evening,Pool,0
+2025-10-18,Night,EPU Core,1
+2025-10-18,Night,Pool,0
+2025-10-19,Morning,EPU Core,1
+2025-10-19,Morning,Pool,1
+2025-10-19,Day,EPU Core,1
+2025-10-19,Day,Pool,0
+2025-10-19,Evening,EPU Core,1
+2025-10-19,Evening,Pool,2
+2025-10-19,Night,EPU Core,1
+2025-10-19,Night,Pool,2
+2025-10-20,Morning,EPU Core,1
+2025-10-20,Morning,Pool,0
+2025-10-20,Day,EPU Core,2
+2025-10-20,Day,Pool,0
+2025-10-20,Evening,EPU Core,2
+2025-10-20,Evening,Pool,1
+2025-10-20,Night,EPU Core,2
+2025-10-20,Night,Pool,0
+2025-10-21,Morning,EPU Core,1
+2025-10-21,Morning,Pool,0
+2025-10-21,Day,EPU Core,1
+2025-10-21,Day,Pool,2
+2025-10-21,Evening,EPU Core,1
+2025-10-21,Evening,Pool,1
+2025-10-21,Night,EPU Core,2
+2025-10-21,Night,Pool,0
+2025-10-22,Morning,EPU Core,1
+2025-10-22,Morning,Pool,2
+2025-10-22,Day,EPU Core,3
+2025-10-22,Day,Pool,0
+2025-10-22,Evening,EPU Core,1
+2025-10-22,Evening,Pool,2
+2025-10-22,Night,EPU Core,1
+2025-10-22,Night,Pool,0
+2025-10-23,Morning,EPU Core,1
+2025-10-23,Morning,Pool,0
+2025-10-23,Day,EPU Core,1
+2025-10-23,Day,Pool,0
+2025-10-23,Evening,EPU Core,1
+2025-10-23,Evening,Pool,1
+2025-10-23,Night,EPU Core,2
+2025-10-23,Night,Pool,0
+2025-10-24,Morning,EPU Core,1
+2025-10-24,Morning,Pool,0
+2025-10-24,Day,EPU Core,1
+2025-10-24,Day,Pool,0
+2025-10-24,Evening,EPU Core,1
+2025-10-24,Evening,Pool,0
+2025-10-24,Night,EPU Core,3
+2025-10-24,Night,Pool,0
+2025-10-25,Morning,EPU Core,2
+2025-10-25,Morning,Pool,1
+2025-10-25,Day,EPU Core,1
+2025-10-25,Day,Pool,0
+2025-10-25,Evening,EPU Core,1
+2025-10-25,Evening,Pool,0
+2025-10-25,Night,EPU Core,1
+2025-10-25,Night,Pool,2
+2025-10-26,Morning,EPU Core,2
+2025-10-26,Morning,Pool,0
+2025-10-26,Day,EPU Core,1
+2025-10-26,Day,Pool,1
+2025-10-26,Evening,EPU Core,2
+2025-10-26,Evening,Pool,0
+2025-10-26,Night,EPU Core,1
+2025-10-26,Night,Pool,0
+2025-10-27,Morning,EPU Core,1
+2025-10-27,Morning,Pool,0
+2025-10-27,Day,EPU Core,1
+2025-10-27,Day,Pool,2
+2025-10-27,Evening,EPU Core,1
+2025-10-27,Evening,Pool,1
+2025-10-27,Night,EPU Core,1
+2025-10-27,Night,Pool,1
+2025-10-28,Morning,EPU Core,2
+2025-10-28,Morning,Pool,1
+2025-10-28,Day,EPU Core,1
+2025-10-28,Day,Pool,0
+2025-10-28,Evening,EPU Core,1
+2025-10-28,Evening,Pool,0
+2025-10-28,Night,EPU Core,2
+2025-10-28,Night,Pool,1
+2025-10-29,Morning,EPU Core,3
+2025-10-29,Morning,Pool,0
+2025-10-29,Day,EPU Core,1
+2025-10-29,Day,Pool,0
+2025-10-29,Evening,EPU Core,1
+2025-10-29,Evening,Pool,0
+2025-10-29,Night,EPU Core,1
+2025-10-29,Night,Pool,0
+2025-10-30,Morning,EPU Core,1
+2025-10-30,Morning,Pool,0
+2025-10-30,Day,EPU Core,2
+2025-10-30,Day,Pool,0
+2025-10-30,Evening,EPU Core,1
+2025-10-30,Evening,Pool,1
+2025-10-30,Night,EPU Core,1
+2025-10-30,Night,Pool,1
+2025-10-31,Morning,EPU Core,2
+2025-10-31,Morning,Pool,0
+2025-10-31,Day,EPU Core,1
+2025-10-31,Day,Pool,1
+2025-10-31,Evening,EPU Core,2
+2025-10-31,Evening,Pool,0
+2025-10-31,Night,EPU Core,2
+2025-10-31,Night,Pool,0
+2025-11-01,Morning,EPU Core,1
+2025-11-01,Morning,Pool,2
+2025-11-01,Day,EPU Core,1
+2025-11-01,Day,Pool,1
+2025-11-01,Evening,EPU Core,1
+2025-11-01,Evening,Pool,0
+2025-11-01,Night,EPU Core,1
+2025-11-01,Night,Pool,1
+2025-11-02,Morning,EPU Core,1
+2025-11-02,Morning,Pool,1
+2025-11-02,Day,EPU Core,1
+2025-11-02,Day,Pool,0
+2025-11-02,Evening,EPU Core,2
+2025-11-02,Evening,Pool,1
+2025-11-02,Night,EPU Core,1
+2025-11-02,Night,Pool,0
+2025-11-03,Morning,EPU Core,2
+2025-11-03,Morning,Pool,0
+2025-11-03,Day,EPU Core,1
+2025-11-03,Day,Pool,2
+2025-11-03,Evening,EPU Core,2
+2025-11-03,Evening,Pool,0
+2025-11-03,Night,EPU Core,1
+2025-11-03,Night,Pool,0
+2025-11-04,Morning,EPU Core,1
+2025-11-04,Morning,Pool,0
+2025-11-04,Day,EPU Core,1
+2025-11-04,Day,Pool,0
+2025-11-04,Evening,EPU Core,1
+2025-11-04,Evening,Pool,0
+2025-11-04,Night,EPU Core,1
+2025-11-04,Night,Pool,0
+2025-11-05,Morning,EPU Core,2
+2025-11-05,Morning,Pool,0
+2025-11-05,Day,EPU Core,1
+2025-11-05,Day,Pool,0
+2025-11-05,Evening,EPU Core,1
+2025-11-05,Evening,Pool,0
+2025-11-05,Night,EPU Core,1
+2025-11-05,Night,Pool,0
+2025-11-06,Morning,EPU Core,1
+2025-11-06,Morning,Pool,0
+2025-11-06,Day,EPU Core,1
+2025-11-06,Day,Pool,1
+2025-11-06,Evening,EPU Core,2
+2025-11-06,Evening,Pool,1
+2025-11-06,Night,EPU Core,2
+2025-11-06,Night,Pool,0
+2025-11-07,Morning,EPU Core,1
+2025-11-07,Morning,Pool,1
+2025-11-07,Day,EPU Core,2
+2025-11-07,Day,Pool,0
+2025-11-07,Evening,EPU Core,1
+2025-11-07,Evening,Pool,0
+2025-11-07,Night,EPU Core,2
+2025-11-07,Night,Pool,0
+2025-11-08,Morning,EPU Core,1
+2025-11-08,Morning,Pool,2
+2025-11-08,Day,EPU Core,1
+2025-11-08,Day,Pool,2
+2025-11-08,Evening,EPU Core,1
+2025-11-08,Evening,Pool,2
+2025-11-08,Night,EPU Core,1
+2025-11-08,Night,Pool,2
+2025-11-09,Morning,EPU Core,1
+2025-11-09,Morning,Pool,2
+2025-11-09,Day,EPU Core,1
+2025-11-09,Day,Pool,0
+2025-11-09,Evening,EPU Core,2
+2025-11-09,Evening,Pool,1
+2025-11-09,Night,EPU Core,1
+2025-11-09,Night,Pool,0
+2025-11-10,Morning,EPU Core,1
+2025-11-10,Morning,Pool,2
+2025-11-10,Day,EPU Core,2
+2025-11-10,Day,Pool,0
+2025-11-10,Evening,EPU Core,1
+2025-11-10,Evening,Pool,0
+2025-11-10,Night,EPU Core,1
+2025-11-10,Night,Pool,1
+2025-11-11,Morning,EPU Core,1
+2025-11-11,Morning,Pool,2
+2025-11-11,Day,EPU Core,1
+2025-11-11,Day,Pool,0
+2025-11-11,Evening,EPU Core,3
+2025-11-11,Evening,Pool,0
+2025-11-11,Night,EPU Core,1
+2025-11-11,Night,Pool,1
+2025-11-12,Morning,EPU Core,1
+2025-11-12,Morning,Pool,0
+2025-11-12,Day,EPU Core,2
+2025-11-12,Day,Pool,1
+2025-11-12,Evening,EPU Core,1
+2025-11-12,Evening,Pool,0
+2025-11-12,Night,EPU Core,1
+2025-11-12,Night,Pool,1
+2025-11-13,Morning,EPU Core,2
+2025-11-13,Morning,Pool,0
+2025-11-13,Day,EPU Core,1
+2025-11-13,Day,Pool,0
+2025-11-13,Evening,EPU Core,1
+2025-11-13,Evening,Pool,0
+2025-11-13,Night,EPU Core,2
+2025-11-13,Night,Pool,0
+2025-11-14,Morning,EPU Core,1
+2025-11-14,Morning,Pool,0
+2025-11-14,Day,EPU Core,1
+2025-11-14,Day,Pool,1
+2025-11-14,Evening,EPU Core,3
+2025-11-14,Evening,Pool,0
+2025-11-14,Night,EPU Core,1
+2025-11-14,Night,Pool,0
+2025-11-15,Morning,EPU Core,3
+2025-11-15,Morning,Pool,0
+2025-11-15,Day,EPU Core,1
+2025-11-15,Day,Pool,2
+2025-11-15,Evening,EPU Core,2
+2025-11-15,Evening,Pool,1
+2025-11-15,Night,EPU Core,1
+2025-11-15,Night,Pool,0
+2025-11-16,Morning,EPU Core,1
+2025-11-16,Morning,Pool,0
+2025-11-16,Day,EPU Core,1
+2025-11-16,Day,Pool,1
+2025-11-16,Evening,EPU Core,2
+2025-11-16,Evening,Pool,0
+2025-11-16,Night,EPU Core,3
+2025-11-16,Night,Pool,0
+2025-11-17,Morning,EPU Core,1
+2025-11-17,Morning,Pool,2
+2025-11-17,Day,EPU Core,2
+2025-11-17,Day,Pool,1
+2025-11-17,Evening,EPU Core,1
+2025-11-17,Evening,Pool,0
+2025-11-17,Night,EPU Core,1
+2025-11-17,Night,Pool,0
+2025-11-18,Morning,EPU Core,2
+2025-11-18,Morning,Pool,0
+2025-11-18,Day,EPU Core,1
+2025-11-18,Day,Pool,0
+2025-11-18,Evening,EPU Core,2
+2025-11-18,Evening,Pool,0
+2025-11-18,Night,EPU Core,3
+2025-11-18,Night,Pool,0
+2025-11-19,Morning,EPU Core,2
+2025-11-19,Morning,Pool,1
+2025-11-19,Day,EPU Core,3
+2025-11-19,Day,Pool,0
+2025-11-19,Evening,EPU Core,1
+2025-11-19,Evening,Pool,1
+2025-11-19,Night,EPU Core,1
+2025-11-19,Night,Pool,0
+2025-11-20,Morning,EPU Core,1
+2025-11-20,Morning,Pool,0
+2025-11-20,Day,EPU Core,3
+2025-11-20,Day,Pool,0
+2025-11-20,Evening,EPU Core,2
+2025-11-20,Evening,Pool,0
+2025-11-20,Night,EPU Core,1
+2025-11-20,Night,Pool,1
+2025-11-21,Morning,EPU Core,1
+2025-11-21,Morning,Pool,0
+2025-11-21,Day,EPU Core,1
+2025-11-21,Day,Pool,1
+2025-11-21,Evening,EPU Core,1
+2025-11-21,Evening,Pool,0
+2025-11-21,Night,EPU Core,1
+2025-11-21,Night,Pool,2
+2025-11-22,Morning,EPU Core,2
+2025-11-22,Morning,Pool,1
+2025-11-22,Day,EPU Core,1
+2025-11-22,Day,Pool,0
+2025-11-22,Evening,EPU Core,2
+2025-11-22,Evening,Pool,0
+2025-11-22,Night,EPU Core,1
+2025-11-22,Night,Pool,1
+2025-11-23,Morning,EPU Core,2
+2025-11-23,Morning,Pool,0
+2025-11-23,Day,EPU Core,1
+2025-11-23,Day,Pool,2
+2025-11-23,Evening,EPU Core,2
+2025-11-23,Evening,Pool,0
+2025-11-23,Night,EPU Core,1
+2025-11-23,Night,Pool,1
+2025-11-24,Morning,EPU Core,1
+2025-11-24,Morning,Pool,0
+2025-11-24,Day,EPU Core,2
+2025-11-24,Day,Pool,1
+2025-11-24,Evening,EPU Core,2
+2025-11-24,Evening,Pool,1
+2025-11-24,Night,EPU Core,1
+2025-11-24,Night,Pool,0
+2025-11-25,Morning,EPU Core,1
+2025-11-25,Morning,Pool,2
+2025-11-25,Day,EPU Core,2
+2025-11-25,Day,Pool,1
+2025-11-25,Evening,EPU Core,1
+2025-11-25,Evening,Pool,0
+2025-11-25,Night,EPU Core,1
+2025-11-25,Night,Pool,1
+2025-11-26,Morning,EPU Core,1
+2025-11-26,Morning,Pool,0
+2025-11-26,Day,EPU Core,2
+2025-11-26,Day,Pool,0
+2025-11-26,Evening,EPU Core,1
+2025-11-26,Evening,Pool,2
+2025-11-26,Night,EPU Core,1
+2025-11-26,Night,Pool,1
+2025-11-27,Morning,EPU Core,1
+2025-11-27,Morning,Pool,0
+2025-11-27,Day,EPU Core,1
+2025-11-27,Day,Pool,1
+2025-11-27,Evening,EPU Core,1
+2025-11-27,Evening,Pool,1
+2025-11-27,Night,EPU Core,1
+2025-11-27,Night,Pool,1
+2025-11-28,Morning,EPU Core,2
+2025-11-28,Morning,Pool,0
+2025-11-28,Day,EPU Core,2
+2025-11-28,Day,Pool,1
+2025-11-28,Evening,EPU Core,2
+2025-11-28,Evening,Pool,0
+2025-11-28,Night,EPU Core,2
+2025-11-28,Night,Pool,1
+2025-11-29,Morning,EPU Core,1
+2025-11-29,Morning,Pool,0
+2025-11-29,Day,EPU Core,2
+2025-11-29,Day,Pool,1
+2025-11-29,Evening,EPU Core,1
+2025-11-29,Evening,Pool,0
+2025-11-29,Night,EPU Core,1
+2025-11-29,Night,Pool,2
+2025-11-30,Morning,EPU Core,1
+2025-11-30,Morning,Pool,2
+2025-11-30,Day,EPU Core,2
+2025-11-30,Day,Pool,0
+2025-11-30,Evening,EPU Core,1
+2025-11-30,Evening,Pool,0
+2025-11-30,Night,EPU Core,2
+2025-11-30,Night,Pool,1
+2025-12-01,Morning,EPU Core,2
+2025-12-01,Morning,Pool,1
+2025-12-01,Day,EPU Core,2
+2025-12-01,Day,Pool,1
+2025-12-01,Evening,EPU Core,1
+2025-12-01,Evening,Pool,0
+2025-12-01,Night,EPU Core,3
+2025-12-01,Night,Pool,0
+2025-12-02,Morning,EPU Core,3
+2025-12-02,Morning,Pool,0
+2025-12-02,Day,EPU Core,2
+2025-12-02,Day,Pool,0
+2025-12-02,Evening,EPU Core,1
+2025-12-02,Evening,Pool,1
+2025-12-02,Night,EPU Core,2
+2025-12-02,Night,Pool,1
+2025-12-03,Morning,EPU Core,2
+2025-12-03,Morning,Pool,0
+2025-12-03,Day,EPU Core,1
+2025-12-03,Day,Pool,0
+2025-12-03,Evening,EPU Core,2
+2025-12-03,Evening,Pool,0
+2025-12-03,Night,EPU Core,3
+2025-12-03,Night,Pool,0
+2025-12-04,Morning,EPU Core,1
+2025-12-04,Morning,Pool,1
+2025-12-04,Day,EPU Core,1
+2025-12-04,Day,Pool,2
+2025-12-04,Evening,EPU Core,1
+2025-12-04,Evening,Pool,2
+2025-12-04,Night,EPU Core,1
+2025-12-04,Night,Pool,0
+2025-12-05,Morning,EPU Core,1
+2025-12-05,Morning,Pool,0
+2025-12-05,Day,EPU Core,3
+2025-12-05,Day,Pool,0
+2025-12-05,Evening,EPU Core,2
+2025-12-05,Evening,Pool,1
+2025-12-05,Night,EPU Core,1
+2025-12-05,Night,Pool,1
+2025-12-06,Morning,EPU Core,1
+2025-12-06,Morning,Pool,0
+2025-12-06,Day,EPU Core,1
+2025-12-06,Day,Pool,2
+2025-12-06,Evening,EPU Core,1
+2025-12-06,Evening,Pool,1
+2025-12-06,Night,EPU Core,1
+2025-12-06,Night,Pool,0
+2025-12-07,Morning,EPU Core,3
+2025-12-07,Morning,Pool,0
+2025-12-07,Day,EPU Core,1
+2025-12-07,Day,Pool,1
+2025-12-07,Evening,EPU Core,1
+2025-12-07,Evening,Pool,1
+2025-12-07,Night,EPU Core,3
+2025-12-07,Night,Pool,0
+2025-12-08,Morning,EPU Core,1
+2025-12-08,Morning,Pool,0
+2025-12-08,Day,EPU Core,1
+2025-12-08,Day,Pool,2
+2025-12-08,Evening,EPU Core,1
+2025-12-08,Evening,Pool,0
+2025-12-08,Night,EPU Core,1
+2025-12-08,Night,Pool,0
+2025-12-09,Morning,EPU Core,1
+2025-12-09,Morning,Pool,2
+2025-12-09,Day,EPU Core,1
+2025-12-09,Day,Pool,0
+2025-12-09,Evening,EPU Core,1
+2025-12-09,Evening,Pool,0
+2025-12-09,Night,EPU Core,1
+2025-12-09,Night,Pool,0
+2025-12-10,Morning,EPU Core,1
+2025-12-10,Morning,Pool,1
+2025-12-10,Day,EPU Core,2
+2025-12-10,Day,Pool,0
+2025-12-10,Evening,EPU Core,2
+2025-12-10,Evening,Pool,0
+2025-12-10,Night,EPU Core,2
+2025-12-10,Night,Pool,0
+2025-12-11,Morning,EPU Core,1
+2025-12-11,Morning,Pool,0
+2025-12-11,Day,EPU Core,2
+2025-12-11,Day,Pool,1
+2025-12-11,Evening,EPU Core,2
+2025-12-11,Evening,Pool,0
+2025-12-11,Night,EPU Core,1
+2025-12-11,Night,Pool,1
+2025-12-12,Morning,EPU Core,1
+2025-12-12,Morning,Pool,0
+2025-12-12,Day,EPU Core,1
+2025-12-12,Day,Pool,0
+2025-12-12,Evening,EPU Core,1
+2025-12-12,Evening,Pool,0
+2025-12-12,Night,EPU Core,2
+2025-12-12,Night,Pool,0
+2025-12-13,Morning,EPU Core,2
+2025-12-13,Morning,Pool,0
+2025-12-13,Day,EPU Core,3
+2025-12-13,Day,Pool,0
+2025-12-13,Evening,EPU Core,2
+2025-12-13,Evening,Pool,1
+2025-12-13,Night,EPU Core,1
+2025-12-13,Night,Pool,2
+2025-12-14,Morning,EPU Core,1
+2025-12-14,Morning,Pool,1
+2025-12-14,Day,EPU Core,3
+2025-12-14,Day,Pool,0
+2025-12-14,Evening,EPU Core,1
+2025-12-14,Evening,Pool,2
+2025-12-14,Night,EPU Core,1
+2025-12-14,Night,Pool,1
+2025-12-15,Morning,EPU Core,1
+2025-12-15,Morning,Pool,0
+2025-12-15,Day,EPU Core,2
+2025-12-15,Day,Pool,0
+2025-12-15,Evening,EPU Core,1
+2025-12-15,Evening,Pool,0
+2025-12-15,Night,EPU Core,1
+2025-12-15,Night,Pool,1
+2025-12-16,Morning,EPU Core,1
+2025-12-16,Morning,Pool,0
+2025-12-16,Day,EPU Core,1
+2025-12-16,Day,Pool,0
+2025-12-16,Evening,EPU Core,1
+2025-12-16,Evening,Pool,1
+2025-12-16,Night,EPU Core,2
+2025-12-16,Night,Pool,0
+2025-12-17,Morning,EPU Core,1
+2025-12-17,Morning,Pool,0
+2025-12-17,Day,EPU Core,2
+2025-12-17,Day,Pool,1
+2025-12-17,Evening,EPU Core,2
+2025-12-17,Evening,Pool,0
+2025-12-17,Night,EPU Core,2
+2025-12-17,Night,Pool,0
+2025-12-18,Morning,EPU Core,2
+2025-12-18,Morning,Pool,0
+2025-12-18,Day,EPU Core,1
+2025-12-18,Day,Pool,1
+2025-12-18,Evening,EPU Core,1
+2025-12-18,Evening,Pool,0
+2025-12-18,Night,EPU Core,1
+2025-12-18,Night,Pool,1
+2025-12-19,Morning,EPU Core,1
+2025-12-19,Morning,Pool,0
+2025-12-19,Day,EPU Core,1
+2025-12-19,Day,Pool,0
+2025-12-19,Evening,EPU Core,1
+2025-12-19,Evening,Pool,1
+2025-12-19,Night,EPU Core,1
+2025-12-19,Night,Pool,1
+2025-12-20,Morning,EPU Core,2
+2025-12-20,Morning,Pool,0
+2025-12-20,Day,EPU Core,2
+2025-12-20,Day,Pool,0
+2025-12-20,Evening,EPU Core,2
+2025-12-20,Evening,Pool,1
+2025-12-20,Night,EPU Core,1
+2025-12-20,Night,Pool,0
+2025-12-21,Morning,EPU Core,2
+2025-12-21,Morning,Pool,0
+2025-12-21,Day,EPU Core,2
+2025-12-21,Day,Pool,0
+2025-12-21,Evening,EPU Core,1
+2025-12-21,Evening,Pool,2
+2025-12-21,Night,EPU Core,2
+2025-12-21,Night,Pool,0
+2025-12-22,Morning,EPU Core,1
+2025-12-22,Morning,Pool,0
+2025-12-22,Day,EPU Core,2
+2025-12-22,Day,Pool,0
+2025-12-22,Evening,EPU Core,3
+2025-12-22,Evening,Pool,0
+2025-12-22,Night,EPU Core,3
+2025-12-22,Night,Pool,0
+2025-12-23,Morning,EPU Core,2
+2025-12-23,Morning,Pool,1
+2025-12-23,Day,EPU Core,2
+2025-12-23,Day,Pool,1
+2025-12-23,Evening,EPU Core,1
+2025-12-23,Evening,Pool,1
+2025-12-23,Night,EPU Core,1
+2025-12-23,Night,Pool,2
+2025-12-24,Morning,EPU Core,1
+2025-12-24,Morning,Pool,0
+2025-12-24,Day,EPU Core,1
+2025-12-24,Day,Pool,0
+2025-12-24,Evening,EPU Core,3
+2025-12-24,Evening,Pool,0
+2025-12-24,Night,EPU Core,1
+2025-12-24,Night,Pool,0
+2025-12-25,Morning,EPU Core,1
+2025-12-25,Morning,Pool,0
+2025-12-25,Day,EPU Core,1
+2025-12-25,Day,Pool,0
+2025-12-25,Evening,EPU Core,2
+2025-12-25,Evening,Pool,0
+2025-12-25,Night,EPU Core,1
+2025-12-25,Night,Pool,0
+2025-12-26,Morning,EPU Core,1
+2025-12-26,Morning,Pool,0
+2025-12-26,Day,EPU Core,1
+2025-12-26,Day,Pool,0
+2025-12-26,Evening,EPU Core,3
+2025-12-26,Evening,Pool,0
+2025-12-26,Night,EPU Core,2
+2025-12-26,Night,Pool,0
+2025-12-27,Morning,EPU Core,2
+2025-12-27,Morning,Pool,0
+2025-12-27,Day,EPU Core,1
+2025-12-27,Day,Pool,0
+2025-12-27,Evening,EPU Core,2
+2025-12-27,Evening,Pool,0
+2025-12-27,Night,EPU Core,1
+2025-12-27,Night,Pool,0
+2025-12-28,Morning,EPU Core,1
+2025-12-28,Morning,Pool,0
+2025-12-28,Day,EPU Core,1
+2025-12-28,Day,Pool,2
+2025-12-28,Evening,EPU Core,2
+2025-12-28,Evening,Pool,0
+2025-12-28,Night,EPU Core,1
+2025-12-28,Night,Pool,1
+2025-12-29,Morning,EPU Core,2
+2025-12-29,Morning,Pool,1
+2025-12-29,Day,EPU Core,1
+2025-12-29,Day,Pool,1
+2025-12-29,Evening,EPU Core,2
+2025-12-29,Evening,Pool,1
+2025-12-29,Night,EPU Core,1
+2025-12-29,Night,Pool,1
+2025-12-30,Morning,EPU Core,1
+2025-12-30,Morning,Pool,0
+2025-12-30,Day,EPU Core,2
+2025-12-30,Day,Pool,0
+2025-12-30,Evening,EPU Core,1
+2025-12-30,Evening,Pool,0
+2025-12-30,Night,EPU Core,1
+2025-12-30,Night,Pool,2
+2025-12-31,Morning,EPU Core,1
+2025-12-31,Morning,Pool,0
+2025-12-31,Day,EPU Core,1
+2025-12-31,Day,Pool,0
+2025-12-31,Evening,EPU Core,3
+2025-12-31,Evening,Pool,0
+2025-12-31,Night,EPU Core,1
+2025-12-31,Night,Pool,1
