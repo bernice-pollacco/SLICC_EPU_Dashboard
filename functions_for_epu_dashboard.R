@@ -23,6 +23,22 @@ episodes_with_date <- episodes_labs_joined %>%
 #start_date <- as.Date("2025-01-01")
 #end_date   <- as.Date("2025-01-31")
 
+#custom colours
+
+custom_col_yesno <- c(
+  "No" = "#004f71",
+  "Yes" = "#a50034"
+)
+
+custom_col_diagnosis <- c(
+  "Early Miscarriage" = "#d1b5d1",
+  "Ectopic Pregnancy" = "#d5c6e4",
+  "IUD" = "#976a85",
+  "Late Miscarriage" = "#9879ab",
+  "Ongoing Pregnancy" = "#9382c1",
+   "PUL" = "#af96ba",
+  "Threatened Miscarriage" = "#ad9db0"
+)
 
 
 ##################################OVERVIEW TAB#############################
@@ -188,6 +204,7 @@ counts_per_diagnosis_function <- function(start_date, end_date){
     geom_text(
       stat = "count",
       aes(label = after_stat(count)))+
+    scale_fill_manual(values = custom_col_diagnosis) +
     theme(legend.position = "none")+
     labs(title="Counts of Diagnosis at EPU",
          x= "Diagnosis",
@@ -204,7 +221,14 @@ management_type_barchart_function <- function(start_date, end_date, diagnosis){
     geom_bar()+
     geom_text(
       stat = "count",
-      aes(label = after_stat(count)))+
+      aes(label = after_stat(count)),
+      vjust = -0.3)+
+    scale_fill_manual(values = c("Expectant" = "#c6d6e3",
+                                 "Medical" = "#487a7b",
+                                 "Surgical" = "#154734")) +
+    scale_y_continuous(
+      expand = expansion(mult = c(0, 0.15))
+    )+
     theme(legend.position = "none")+
     labs(title=paste("Management Type for", diagnosis, "at EPU"),
          x= "Management Type",
@@ -223,7 +247,15 @@ referral_source_barchart_function <- function(start_date, end_date, diagnosis){
     geom_bar()+
     geom_text(
       stat = "count",
-      aes(label = after_stat(count)))+
+      aes(label = after_stat(count)),
+      vjust = -0.3)+
+    scale_fill_manual(values = c("A&E" = "#b07c83",
+                                 "GP" = "#6d4f47",
+                                 "Midwife" = "#333f48",
+                                 "Self" = "#653024")) +
+    scale_y_continuous(
+      expand = expansion(mult = c(0, 0.15))
+    )+
     theme(legend.position = "none")+
     labs(title="Referal Source to EPU",
          x= "Referal Source",
@@ -244,13 +276,15 @@ dna_ltfu_function <- function(start_date, end_date, diagnosis){
                  values_to = "Response") %>% 
     ggplot(aes(x = Outcome, fill = Response)) +
     geom_bar(position = "dodge") +
-    scale_fill_manual(values = c(
-      "Yes" = "#E34234",
-      "No" = "#93C572"))+
+    scale_fill_manual(values = custom_col_yesno) +
     geom_text(
       stat = "count",
       aes(label = after_stat(count)),
-      position = position_dodge(width = 0.9))+
+      position = position_dodge(width = 0.9),
+      vjust = -0.3)+
+    scale_y_continuous(
+      expand = expansion(mult = c(0, 0.15))
+    )+
     labs(title = "Counts for Attendance and Lost to Follow-up",
          subtitle = paste("For patients diagnosed with", diagnosis),
          y = "Number of Patients")
@@ -276,8 +310,8 @@ admissions_over_time_function <- function(start_date, end_date, diagnosis){
     )
   
   ggplot(admission_data, aes(x = admission_day, y = num_admissions)) +
-    geom_line(color = "steelblue", linewidth = 1) +
-    geom_point(color = "black") +
+    geom_line(color = "black", linewidth = 1) +
+    geom_point(color = "#d50032") +
     scale_x_date(date_labels = "%d %b", date_breaks = "3 day") +
     scale_y_continuous(
       breaks = seq(0, max(admission_data$num_admissions), by = 1)
@@ -308,7 +342,7 @@ seen_adm_rm_over_time_linechart_function <- function(start_date, end_date){
   
   ggplot(adm_rm_data, aes(x = seen_date, y = num_seen)) +
     geom_line(color = "black", linewidth = 1) +
-    geom_point(color = "red") +
+    geom_point(color = "#d50032") +
     scale_x_date(date_labels = "%d %b", date_breaks = "3 day") +
     scale_y_continuous(
       breaks = seq(0, max(adm_rm_data$num_seen), by = 1)
@@ -360,11 +394,11 @@ monthly_emergency_rate_function <- function(start_date, end_date, diagnosis){
     geom_hline(
       yintercept = 40 * max_patients / 100,
       linetype = "dashed",
-      color = "red"             #threshold line
+      color = "#d50032"             #threshold line
     ) +
     scale_color_manual(values = c(
       "Total patients" = "darkgreen",
-      "Surgical Cases" = "steelblue",
+      "Surgical Cases" = "#041E42",
       "Surgical %" = "firebrick"
     )) +
     labs(
@@ -402,7 +436,7 @@ monthly_los_linechart_function <- function(start_date, end_date, diagnosis){
   monthly_avg_los_function(start_date, end_date, diagnosis) %>% 
     ggplot(aes(x = Admission_Month, y = avg_los)) +
     geom_line(color = "black", linewidth = 1) +
-    geom_point(color = "steelblue", size = 3) +
+    geom_point(color = "#d50032", size = 3) +
     scale_x_date(date_labels = "%b-%y", date_breaks = "1 month") +
     labs(
       title = "Monthly Average Length of Stay Trend",
@@ -440,7 +474,7 @@ avg_ectopic_diagnosis_linechart_function <- function(start_date, end_date){
   avg_monthly_ectopic_diagnosis_function(start_date, end_date) %>% 
     ggplot(aes(x = Ectopic_Review_Month, y = Avg_ectopic_diagnosis_time)) +
     geom_line(color = "black", linewidth = 1) +
-    geom_point(color = "steelblue", size = 3) +
+    geom_point(color = "#d50032", size = 3) +
     scale_x_date(date_labels = "%b-%y", date_breaks = "1 month") +
     labs(
       title = "Monthly Average Time (Hrs) for an Ectopic Diagnosis Trend",
@@ -514,8 +548,8 @@ staff_line_chart_function <- function(start_date, end_date, shift){
     geom_line(aes(y = total_staff, color = "Total staff"), linewidth = 1.2) +
     scale_y_continuous(name = "Number of Staff") +
     scale_color_manual(values = c(
-      "Ward staff" = "#D55E00",
-      "Pool staff" = "#4477AA",
+      "Ward staff" = "#d50032",
+      "Pool staff" = "#041E42",
       "Total staff" = "black"
     )) +
     scale_x_date(date_labels = "%d-%b", date_breaks = "3 day") +
@@ -548,7 +582,7 @@ percent_pool_chart_function <- function(start_date, end_date, shift){
     ggplot(aes(x = Date, y = pool_percentage)) +
     geom_line(linewidth = 1, color = "black") +
     geom_point(size = 2, color = "firebrick") +
-    geom_hline(yintercept = 30, linetype = "dashed", color = "red")+ #to indicate threshold
+    geom_hline(yintercept = 30, linetype = "dashed", color = "#d50032")+ #to indicate threshold
     scale_x_date(date_labels = "%d-%b", date_breaks = "3 day") +
     labs(
       title = paste("Percentage Pool Staff Support During", shift, "Shift Over Time"),
@@ -579,6 +613,7 @@ rel_wait_diagnosis_function <- function(start_date, end_date){
       waiting_time = as.numeric(difftime(Seen_in_Admission_Time, Arrival_Time, units = "hours"))) %>% 
     ggplot(aes(x=Outcome_Category, y=waiting_time, fill=Outcome_Category))+
     geom_boxplot()+
+    scale_fill_manual(values = custom_col_diagnosis) +
     labs(title = "Relationship between Diagnosis and Waiting Time (hrs)",
          x= "Diagnosis",
          y= "Waiting Time (hrs)")+
@@ -597,8 +632,9 @@ rel_wait_emsurgery_function <- function(start_date, end_date, diagnosis){
            Outcome_Category == diagnosis) %>%
     mutate(
       waiting_time = as.numeric(difftime(Seen_in_Admission_Time, Arrival_Time, units = "hours"))) %>% 
-    ggplot(aes(x=Emergency_Surgery, y=waiting_time))+
+    ggplot(aes(x=Emergency_Surgery, y=waiting_time, fill=Emergency_Surgery))+
     geom_boxplot()+
+    scale_fill_manual(values = custom_col_yesno) +
     labs(title = "Relationship between Emergency Surgery and Waiting Time",
          subtitle = paste("For", diagnosis),
          x= "Emergency Surgery",
@@ -616,6 +652,7 @@ rel_los_diagnosis_function <- function(start_date, end_date){
       LOS = as.numeric(difftime(Discharge_Date, Admission_Date, units = "hours"))) %>% 
     ggplot(aes(x=Outcome_Category, y=LOS, fill=Outcome_Category))+
     geom_boxplot()+
+    scale_fill_manual(values = custom_col_diagnosis) +
     labs(title = "Relationship between Diagnosis and Length of Stay (hrs)",
          x= "Diagnosis",
          y= "Length of Stay (hrs)")+

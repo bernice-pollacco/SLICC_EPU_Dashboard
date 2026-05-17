@@ -221,6 +221,8 @@ ui <- dashboardPage(
           )
           )
         ),
+    
+    #--------------------INSIGHTS TAB----------------------#
     tabItem(
       tabName = "insights",
       
@@ -235,7 +237,7 @@ ui <- dashboardPage(
         
         box(
           title = "Emergency Surgery and Waiting Time",
-          width = 6,
+          width = 12,
           status = "info",
           solidHeader = TRUE,
           plotOutput("rel_wait_emsurgery_plot", height = 250)
